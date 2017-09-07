@@ -257,8 +257,8 @@ class Seq2seqAgent(Agent):
                 xes = self.lt(y).unsqueeze(0)
                 for b in range(batchsize):
                     # convert the output scores to tokens
-                    #token = self.v2t([preds.data[b][0]])
-                    token = self.v2t([preds.data[b]]) # Ken
+                    token = self.v2t([preds.data[b][0]])
+                    #token = self.v2t([preds.data[b]]) # Ken
 
                     output_lines[b].append(token)
 
