@@ -88,9 +88,9 @@ def main():
     train.add_argument('-ttim', '--max-train-time',
                         type=float, default=-1)
     train.add_argument('-ltim', '--log-every-n-secs',
-                        type=float, default=2)
+                        type=float, default=20)
     train.add_argument('-vtim', '--validation-every-n-secs',
-                        type=float, default=-1)
+                        type=float, default=10000)
     train.add_argument('-vme', '--validation-max-exs',
                         type=int, default=-1,
                         help='max examples to use during validation (default ' +
