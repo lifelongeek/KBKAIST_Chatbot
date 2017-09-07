@@ -102,15 +102,13 @@ class Seq2seqAgent(Agent):
             # set up modules
             self.criterion = nn.NLLLoss()
             # lookup table stores word embeddings
-            self.lt = nn.Embedding(len(self.dict), hsz,
-                                   padding_idx=self.NULL_IDX,
-                                   scale_grad_by_freq=True)
+            self.lt = nn.Embedding() # FILL HERE
             # encoder captures the input text
-            self.encoder = nn.GRU(hsz, hsz, opt['numlayers'])
+            self.encoder = nn.GRU() # FILL HERE
             # decoder produces our output states
-            self.decoder = nn.GRU(hsz, hsz, opt['numlayers'])
+            self.decoder = nn.GRU() # FILL HERE
             # linear layer helps us produce outputs from final decoder state
-            self.h2o = nn.Linear(hsz, len(self.dict))
+            self.h2o = nn.Linear() # FILL HERE
             # droput on the linear layer helps us generalize
             self.dropout = nn.Dropout(opt['dropout'])
             # softmax maps output scores to probabilities
@@ -188,10 +186,10 @@ class Seq2seqAgent(Agent):
         if hidden.size(0) > 1:
             raise RuntimeError('bad dimensions of tensor:', hidden)
         hidden = hidden.squeeze(0)
-        scores = self.h2o(hidden)
+        scores =  # FILL HERE
         if dropout:
-            scores = self.dropout(scores)
-        scores = self.softmax(scores)
+            scores = # FILL HERE
+        scores = # FILL HERE
         _max_score, idx = scores.max(1)
         return idx, scores
 
