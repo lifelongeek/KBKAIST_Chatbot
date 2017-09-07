@@ -1,0 +1,3039 @@
+1  &lt;THE VlRGlN STRlPPED BARE BY HER BACHELORS&gt;	 &lt;DAY\' S WAlT ... &gt;
+2  You\' il have to wait outside .	 - Will it be long ?
+3  - I\' m almost done .	 Okay .
+4  Hello ?	 It\' s me .
+5  Soojung .	 Where are you ?
+6  I just got up .	 You mean just now ?
+7  I\' m not feeling very well .	 Where are you ?
+8  I\' m already here .	 Are you sick ?
+9  I\' m sorry .	 Can\' t we do this another time ?
+10  Soojung ...	 Soojung , you know this wasn\' t easy .
+12  Of course .	 Soojung , You\' re making things really difficult .
+13  Where are you ?	 In the hotel ?
+14  Yes .	 I\' m in the room .
+15  What number ?	 Room 308 .
+16  Grab a taxi .	 I\' il wait .
+17  &lt;PERHAPS ACClDENT&gt;	 - The 3rd Painting Exhibition -
+18  - Growrich Gallery -	 Interesting ?
+19  Not much , yes ?	 I liked it .
+20  Not interesting at all .	 I thought it was fun .
+22  Shall we go ?	 Where to ?
+23  How about lunch ?	 Did we eat ?
+25  Anyway , let\' s have something .	 Let\' s go .
+26  You should start painting again .	 What ?
+27  You should start painting again .	 And what about you ?
+32  I know what you mean .	 Excuse me , the toilet .
+33  What\' s the matter ?	 It\' s probably his stomach .
+34  Are you two close ?	 I\' ve known him for about 5 years .
+38  - What is her name ?	 - Soojung .
+39  - Her last name ?	 - Yang .
+40  Can you please move ?	 We\' re shooting here .
+41  Thank you .	 Hello .
+42  What a coincidence !	 Hello .
+43  You must be here with the crew .	 Yes .
+44  Can I see those gloves ?	 These gloves ?
+45  These gloves are really mine .	 How did you get them ?
+46  These gloves are yours ?	 I found them on that bench .
+47  I came back but ...	 I didn\' t think I would find them ...
+50  Of course .	 Do you remember my name by any chance ?
+51  Yes , of course .	 I have a pretty good memory .
+52  I have good memory , too .	 Well , I have to go .
+54  Oh , I\' m seeing Youngsoo later on .	 I see .
+55  - Well , so long .	 - Good- bye .
+56  - And thank you for the gloves .	 - That\' s alright .
+58  I\' m ready to struggle .	 Then I can help out .
+60  You shouldn\' t be .	 It would be good if you could help .
+63  Is this codfish ?	 No way .
+65  This is crayfish .	 I have to go to the bathroom .
+66  Codfish isn\' t so cheap .	 New chopsticks , please !
+67  They\' re right here .	 Oh , there they are .
+68  Where did you get the chopsticks before ?	 From there .
+69  Let me pour for you .	 - Do you drink a lot ?
+70  - What ?	 Drinking ... do you drink a lot ?
+72  Really ?	 You drink that much ?
+73  Not anymore .	 Youngsoo , are you okay ?
+74  Are you going to Sadang- dong ?	 Youngsoo , get in .
+75  Be careful .	 Are you alright ?
+77  I\' il take you home .	 I\' m okay .
+78  - Please go .	 - I\' il take you home .
+80  Come .	 What is it ?
+83  They\' re not here .	 You\' re really funny .
+84  Soojung ...	 Stop !
+85  Stop it !	 I\' m sorry .
+86  Are you hurt ?	 No ...
+88  I\' m really serious .	 I\' m not just saying this .
+90  No .	 I see .
+91  Then , I should apologize .	 I\' m sorry .
+92  Please forgive me .	 I will .
+94  Sure .	 Are you sure I can borrow this ?
+95  - Of course .	 - Very nice ...
+96  I should get one of these .	 They\' re not available in Korea .
+97  I bought this in Japan .	 You go to Japan , right Youngsoo ?
+98  Why would I go to Japan ?	 Hey , Park !
+105  Let\' s do it next time .	 I have visitors today .
+106  It\' s 16 to 9 .	 It\' s my serve .
+108  We can do that now .	 Let\' s quit playing .
+109  You\' re good .	 Why did you say you\' re not good ?
+110  I\' m not good .	 This isn\' t funny .
+112  - Hello , is this Park ?	 Oh , Kwon .
+117  We\' re shooting tomorrow .	 Are you gonna be here , or not ?
+118  - What about Driver Kim ?	 - Why should he come ?
+121  Okay .	 You\' re fired .
+122  Now you won\' t have to come tomorrow .	 Satisfied ?
+123  What ?	 You , son of a bitch .
+124  What\' s that ?	 Bastard .
+125  You better not move an inch .	 Stay right there , you bastard .
+126  I\' m sorry .	 I\' m really sorry .
+127  You know how it is .	 We\' re always behind schedule .
+129  Let\' s shake hands and make up .	 - I\' m sorry .
+131  My mistake .	 I shouldn\' t have .
+132  Come on .	 Give me your hand .
+133  Is everything okay ?	 Are you okay ?
+136  How did it go with Park ?	 Well , you know ...
+137  I was too thoughtless .	 It\' s his job we\' re talking about .
+138  It was my temper , but it was my mistake .	 My fault .
+139  So is he coming tomorrow ?	 Oh , I forgot about that .
+141  To Sungbook- dong .	 Yeah , you go .
+142  Soojung , get in .	 I\' il drop you off .
+143  Me ?	 No , I\' m fine .
+144  It\' s the opposite direction .	 It\' s okay .
+145  It\' il only be a slight detour .	 Bye Youngsoo .
+146  Get in .	 Get in .
+147  Bye .	 Bye , Youngsoo .
+149  I liked that .	 Did you like it ?
+154  - No thank you .	 - Are you sure ?
+155  - Yes .	 Excuse me while I take a shower .
+156  Would you like to take a shower ?	 No , thank you .
+157  Just a second .	 This is my first time .
+158  What ?	 I\' ve never done this before .
+159  Really ?	 Yes .
+160  I\' ve never done this before .	 Really ?
+161  I\' m a virgin .	 - Quite funny , isn\' t it ?
+162  - No .	 Not at all .
+163  Isn\' t it funny ?	 You don\' t like to wear a bra ?
+165  I guess in the winter , it doesn\' t show .	 Excuse me .
+166  Can I get you anything else ?	 I think we\' re okay .
+168  Yes .	 It\' s a very nice car .
+169  Well .	 Have a nice time .
+170  It\' s just a fork .	 I would if I had a girlfriend .
+172  It\' s not easy .	 What\' s not easy ?
+179  Come on .	 I think she might have been offended .
+182  She must really be offended .	 Oh , no .
+183  Anyway , happy birthday .	 Thanks for coming .
+184  Come on .	 We\' re in public .
+187  No .	 I mean it .
+188  See , you wife here ...	 Someone\' s at the door .
+189  - I\' il get it .	 - Okay .
+190  Long time no see .	 Jaehoon , you\' re here .
+191  Hi .	 The numbers of the apartment buildings are so mixed up .
+192  Come in .	 Come in .
+193  She\' s a writer and works with me .	 Hello .
+194  Come on in .	 How come it\' s so dark ?
+195  - Where are the lights ?	 - In the back .
+196  Please sit down .	 - I\' ve brought some baked sweet potatoes .
+198  - How have you been ?	 - Fine .
+199  - What about dinner ?	 - This will do .
+200  - Can you hand me the chopsticks .	 - Try some of this .
+201  Youngsoo , how\' s your movie coming along ?	 Going well ?
+203  Have you ever really cared about me ?	 Soojung , come here .
+204  Come over here .	 Move over , damn it .
+205  Come on .	 Get over here .
+206  Pour a drink for your boss , the producer .	 Come on .
+207  - Youngsoo !	 - I\' m just kidding .
+208  Get away .	 Soojung .
+209  Loosen up .	 Just enjoy yourself .
+210  You don\' t have to act so innocent .	 Drink up .
+211  Go with the flow .	 Drink up .
+212  Drink up .	 Drink up .
+213  Are you saying I didn\' t drink ?	 I did drink a lot .
+214  You did ?	 Okay , then I\' il drink this .
+215  This is for me ?	 He\' s a thief .
+217  He said he lost it .	 What do you mean he lost it ?
+219  It\' s not obvious .	 How funny .
+221  We don\' t know .	 How can you ... okay .
+225  His integrity .	 You know !
+229  Funny .	 Very funny .
+233  Okay .	 No , its not okay .
+236  You know ?	 Our relationship is .
+237  Alright , okay .	 Let\' s just keep it between us .
+239  I\' ve never felt like this before .	 I was even considering marriage .
+240  Even marriage ...	 How can you not know how I feel ?
+243  Make your life easier .	 Let\' s stop seeing each other , then .
+245  Soojung !	 Come here .
+246  Come here .	 Come here .
+247  Enjoy your meal .	 Can I see you today ?
+248  I have to go somewhere today .	 I see .
+249  How are you ?	 Okay .
+250  Are you going somewhere far ?	 No .
+252  Where\' s Ansan ?	 It\' s close if you take the subway .
+253  She moved to Kojan , which is right before Ansan .	 Kojan ?
+254  Do you know how to get to Kojan ?	 Look for yourself .
+255  You look very nice in a skirt .	 What is this ?
+257  Not at all .	 Do you like it ?
+258  My mother asked me who gave this to me .	 Is that so ?
+260  Is that how you hold your chopsticks ?	 Why ?
+262  Like this ?	 You move them back and forth with these two fingers .
+264  I should correct something if it\' s wrong .	 - No .
+265  - Why not ?	 Let\' s do it next time .
+266  Again ?	 I\' m really getting tired of this .
+267  Let\' s do it next time .	 Next time , when ?
+269  I really want to do it .	 Let\' s do it next time .
+270  Not today .	 I\' m having my period .
+271  Period ?	 It doesn\' t matter .
+272  I don\' t mind .	 I do !
+274  Of course .	 - Show me , then .
+275  - It\' s true !	 Let\' s go somewhere nice .
+276  How about Cheju Island ?	 Yes .
+277  Let\' s go to Cheju Island .	 Okay .
+279  Soojung ...	 I love you .
+280  I love you , too .	 &lt;SUSPENDED CABLE CAR&gt;
+281  It\' s me .	 Soojung ?
+282  Where are you ?	 At home .
+283  I just got up .	 You mean just now ?
+284  I think I\' m sick .	 Where are you ?
+285  I\' m here at the hotel .	 Are you sick ?
+286  No .	 It\' s just that I\' m not feeling very well .
+287  Hello ?	 It\' s Soojung .
+288  What are you doing ?	 Can you talk on the phone right now ?
+289  Where are you ?	 Myong- dong .
+290  What are you doing there ?	 Do you think you can come ?
+291  Let me see .	 Not today .
+292  The whole family is getting together at my mother\' s .	 I see .
+293  Well , then okay ...	 Is something wrong ?
+294  Well .	 Then , so long .
+296  You should be with your family .	 Alright , then .
+297  Calling control room .	 Control room .
+299  Tell the passengers so they don\' t panic .	 Alright .
+302  - Yes .	 I think so .
+303  Sorry , but can you hold her for me .	 &lt;PERHAPS INTENTlON&gt;
+304  Okay , see you later .	 Bye !
+305  Come here .	 My baby .
+306  Sweet heart .	 - Let\' s go .
+307  - My baby .	 What\' s that ?
+308  Did you eat ?	 No .
+309  Let\' s go see some paintings .	 What\' s the matter ?
+310  Paintings ?	 You mean a painting exhibit ?
+311  Yeah .	 Now ?
+312  Let\' s go .	 I\' il buy you a drink .
+314  Why should it be bigger ?	 Sorry to keep you waiting .
+316  No , sir .	 I\' il wait .
+317  I\' il be waiting here , sir .	 You will ?
+318  Then get something to eat .	 Yes , sir .
+319  Shall we go ?	 - Okay .
+321  Get your own place .	 Youngsoo , I respect my brother .
+323  Excuse me ...	 I have to go to the toilet .
+325  Excuse me ?	 Drinking ... do you drink a lot ?
+327  Really ?	 You drink that much ?
+
+1  Hi .	 I\' ve got an appointment with Mr. UIlman .
+3  Thank you .	 Mr. UIlman ?
+4  I\' m Jack Torrance .	 Come on in , Jack .
+5  - Very nice to meet you .	 - Nice to meet you .
+7  - Any trouble finding us ?	 No problem at aIl .
+9  Sit down a minute , Jack .	 Just make yourself at home .
+11  Thanks .	 - Susie .
+12  - Sure .	 And ask BiII Watson to join us .
+13  Yes , I wiIl .	 Mom ?
+15  Sure I do .	 It\' II be Iots of fun .
+16  Yeah .	 I guess so .
+21  Don\' t be siIly .	 I don \' t want to go there .
+31  They\' II love it .	 Great .
+47  - Hi , hon .	 How\' s it going ?
+50  Right .	 It\' s a beautifuI place .
+52  I don \' t know .	 You do too know .
+53  Now come on , teII me .	 I don \' t want to .
+54  Please .	 No .
+55  Now , Tony , teII me .	 We must reaIly be high up .
+56  The air feels so different .	 Dad ?
+57  I\' m hungry .	 You should\' ve eaten your breakfast .
+63  Jack .	 Don\' t worry , Mom .
+64  I know aII about cannibalism .	 I saw it on TV .
+65  See , it\' s okay .	 He saw it on the television .
+66  - What time does the plane Ieave ?	 - 8 : 30 .
+68  - Bye .	 Good morning .
+69  I hope you haven\' t been waiting too Iong .	 No problem .
+70  We had time to grab a bite to eat .	 Good .
+75  This is our Colorado Lounge .	 It\' s beautiful .
+76  My God !	 This place is fantastic , isn\' t it , hon ?
+77  It sure is .	 This is the staff wing of the hotel .
+79  - Goodbye , girls .	 And here are your quarters .
+81  Perfect for a child .	 When was the Overlook built ?
+82  Construction started in 1907 .	 It was finished in 1909 .
+84  That\' s our Snowcat .	 Can you both drive a car ?
+85  That\' s fine .	 BasicaIly the Snowcat operates very much Iike a car .
+87  This is it .	 How do you Iike it , Danny ?
+95  You Iike Iamb , Doc ?	 You don\' t ?
+96  What\' s your favorite food ?	 French fries and ketchup .
+97  I think we can manage that too , Doc .	 Come along .
+98  Watch your step .	 How\' d you know we caII him Doc ?
+99  - Beg your pardon ?	 - You caIled Danny " Doc " twice .
+109  - How\' re you getting on ?	 - Fine .
+111  I promise we won\' t keep her very Iong .	 No problem .
+113  I thought so .	 You mind if I give Danny some ice cream ?
+114  - Not at aIl .	 - We don\' t mind .
+115  - Good .	 - Sound good to you , Doc ?
+117  Chocolate .	 Chocolate it shaII be .
+118  Come on , son .	 It\' s amazing , aII this activity today .
+126  Who says you ain\' t supposed to ?	 Tony .
+132  About the Overlook Hotel ?	 I don\' t know .
+133  Now think reaI hard , Doc .	 Think .
+139  What about Room 237 ?	 Room 237 ?
+141  Mr. HaIlorann , what is in Room 237 ?	 Nothing .
+143  So stay out .	 You understand ?
+144  Stay out !	 Good morning , hon .
+145  Your breakfast is ready .	 What time is it ?
+146  It\' s about 11 : 30 .	 Jesus !
+147  I guess we\' ve been staying up too Iate .	 I know it .
+151  Lots of ideas .	 No good ones .
+153  That\' s aII it is .	 - AII right .
+155  You\' d better run fast !	 Look out !
+156  I\' m coming in close .	 Loser has to keep America clean .
+157  Keep America clean .	 Danny , you win .
+158  Let\' s take the rest of this walking .	 Give me your hand .
+159  Isn\' t it beautiful ?	 Dead end .
+160  We made it .	 Isn\' t it beautiful ?
+161  It\' s so pretty .	 I didn\' t think it was this big .
+162  Did you ?	 Hi , hon .
+163  How\' s it going ?	 Fine .
+167  I just want to finish my work .	 Okay .
+168  I understand .	 I\' II come back Iater with a couple of sandwiches .
+171  Understand ?	 Fine .
+174  Do you think you can handle that ?	 Fine .
+176  Don\' t have !	 No fair anymore .
+177  I knew it .	 This is KDK 12 caIling KDK 1 .
+178  KDK 12 to KDK 1 .	 This is KDK 1 .
+179  We\' re receiving you .	 Over .
+181  Over .	 We\' re just fine .
+184  Over .	 Any chance of them being repaired soon ?
+186  This storm is reaIly something , isn\' t it ?	 Over .
+188  I suppose not .	 Over .
+191  It was reaI nice talking to you .	 Bye .
+192  Over and out .	 HeIlo , Danny .
+193  Come and play with us .	 Come and play with us , Danny .
+198  How\' s it going , Doc ?	 Having a good time ?
+199  Yes , Dad .	 Good .
+200  I want you to have a good time .	 I am , Dad .
+201  Do you feeI bad ?	 I\' m just a Iittle bit tired .
+202  Then why don\' t you go to sleep ?	 I can\' t .
+203  I got too much to do .	 Do you Iike this hotel ?
+204  I do .	 I love it .
+205  Don\' t you ?	 I guess so .
+206  Good .	 I want you to Iike it here .
+210  No , Dad .	 You sure ?
+211  Yes , Dad .	 I love you , Danny .
+213  You know that , don\' t you ?	 Yes , Dad .
+214  Good .	 Mom , are you in there ?
+215  What happened ?	 Honey . . . . . . what\' s wrong ?
+217  - It\' s okay now .	 ReaIly .
+219  I cut you up into Iittle pieces .	 My God .
+221  Come on .	 Let\' s get up off the floor .
+222  There .	 Now sit up .
+223  It\' s okay .	 It\' s okay .
+224  Danny !	 Everything\' s okay !
+226  Danny , mind what I say .	 Go play in your room .
+228  Why don\' t you mind me ?	 Oh , my God .
+229  What happened to your neck ?	 What happened to your neck ?
+231  You did this to him !	 Didn\' t you ? !
+232  How could you ? !	 How could you ? !
+233  God !	 I\' d give anything for a drink .
+239  You\' re not too busy , are you ?	 No , sir .
+240  I\' m not busy at aIl .	 Good man .
+244  That\' s sweIl .	 I Iike you , Lloyd .
+245  I always Iiked you .	 You were always the best of them .
+250  Any fucking thing for him .	 But that bitch !
+252  It was an accident .
+9  " That\' s house - just opposite yours .	 Offer him that ! "
+18  The sun is setting ! "	 " We will go no further !
+19  Not for a fortune ! "	 " We will go no further !
+21  " You are late , young man .	 It is almost midnight .
+22  My servants have all retired . "	 " Blood !
+23  Your precious blood ! "	 " Shall we stay up together for awhile ?
+25  Dearest Ellen !	 Do not grieve because your beloved is far away ...
+30  At the same hour ...	 " Ellen ! "
+31  " Fetch a doctor ... a doctor ! "	 " Thomas !
+32  Thomas !	 Hear me ! "
+43  Blood is life !!!! "	 " And this one ... "
+45  " No more than a phantom ... "	 " Spiders - "
+54  " I must go to him .	 He is approaching !!! "
+55  The Master is coming !	 The Master is here ! "
+57  " Thomas !	 Thank God you are safe !
+60  Departing for the Dardanellas .	 2nd day :
+61  July 13 .	 One sailor has contracted a fever .
+62  Course :	 SSW .
+63  Direction of wind :	 3nd day :
+65  Course : SE .	 Direction of wind :
+66  NE .	 Volume of wind : 3 . 6
+67  10th day :	 22 July .
+69  Go home !	 Shut all your windows and doors ! "
+73  Every night , in front of me ... "	 Panic seized the people .
+74  Who was sick or dying ?	 Who would be stricken tomorrow ?
+75  " I shall run over there quickly .	 I shall get Sievers ... "
+79  The vampire ! "	 " Bulwer !
+80  Fetch Bulwer ! "	 " Master !
+81  Master !	 Beware ! "
+82  " The master ... is ... dead . "	 " Thomas ! "
+
+2  I\' m just finishing up a few e- mails .	 Oh , what ?
+5  You heard of that ?	 Yeah .
+6  It\' s some kind of acronym .	 But my inbox is full .
+8  Not that they listen .	 We\' re going .
+12  Feels good , doesn\' t it ?	 Being with people who are alive .
+14  - That\' s slang , right ?	 - Right .
+17  We\xc2\xb4re so get in check up !	 - I love this music !
+18  - DJ Rulz !	 He is so hot !
+19  It\' s so tribal .	 - You don\xc2\xb4t say tribal , sweetie .
+20  - Why ?	 Oh , because of all the black people ?
+27  We\' re going .	 We\' re going .
+33  Wait .	 Why did you bring Tessa ?
+35  Your pupils are the size of saucers .	 Get away from the remains !
+36  Bones , simmer down .	 How long is this going to take ?
+37  Who the hell wants to know ?	 I\' m sorry .
+38  He works for me .	 I\' m Randall Hall .
+39  I run this place .	 You run this place , Mr. Hall .
+41  We found them .	 We found some drugs on the dead guy .
+43  - Why he had them .	 - Why he had them .
+44  Any idea who he is ?	 Any idea ?
+48  Zack !	 Zack !
+53  It\' s very touching .	 I\' m going to grab a cab .
+55  I apologize .	 Here .
+57  - Take care .	 - I\' il talk to you later .
+58  Talk to you later .	 Can we just stick to the business here ?
+62  He\' s very dry and brittle .	 My first modern mummy .
+63  Bones 1x06	 Trancript : cfsmp3 Sync :
+66  Chamomile tea ?	 It\' s very soothing .
+77  - Off that ?	 - Sure .
+78  You ever been to Costa Rica ?	 I was flown down once .
+79  They found a human skull ... 12, 000 years old	 Why ?
+81  Heard Costa Rica was beautiful .	 Yes .
+84  Maybe I should ...	 Oh God !
+87  Yup .	 His name is Roy Taylor .
+88  Roy Taylor ?	 You\' re kidding .
+89  It\' s DJ Mount !	 I don\' t know who that is .
+92  Never knew this side of you , Bones .	 It\' s DJ Mount .
+93  You\' re hung over .	 Does this make your head explode ?
+103  Wait for me by the elevator .	 Rulz .
+104  What rules ?	 That\' s his name .
+106  Why ?	 Ask Rulz .
+110  You would\' ve fit right in last night .	 Really ?
+111  Footprints .	 In the dirt and the termite shavings .
+112  Someone was on the other side of him .	 Light .
+114  - Or take it down .	 One last look ?
+115  Take them in , show them around .	 - Agent Booth ?
+116  - Yeah .	 Roy Taylor\xc2\xb4s father .
+118  - Thank you for seeing me .	 Please sit .
+120  I\' m sorry for your loss .	 I have some information you need .
+121  - About your son\' s death ?	 - No , sir .
+125  Baseball .	 Roy never drank , and he never did drugs .
+126  Do you understand me , sir ?	 Mr. Taylor ...
+128  I taught him a relationship with Jesus .	 Do you understand , sir ?
+133  Some iniquity killed my boy .	 You know that word , Agent Booth ?
+136  Yes , sir .	 Good .
+140  Here are the footprints .	 There are marks on the wall .
+141  It\' s scraped .	 Bloosmear ... dried .
+142  I see something .	 Can I retrieve ?
+145  Oh , no .	 I don\' t have enough yet .
+148  You buy Tessa jewelry ?	 I ...
+154  Before they became totally Miami- divorcee .	 Good news .
+155  I was able to pull some particulates .	 Are those , uh ... ?
+156  Eyeballs ?	 Yeah .
+158  Polyethylene ?	 Came from the plastic bag holding the meth .
+159  This can be cleaned now .	 Yeah !
+166  Look at this .	 " Luv Rulz . "
+167  At least we know who to ask .	 Hello .
+168  Yeah , it\' s open .	 Yeah , it\' s open .
+169  FBl .	 Special Agent Booth
+171  She works for the FBl .	 Yeah , I can live with that .
+172  Dr. Brennan also discovered that Roy Taylor was murdered .	 So ?
+174  Rulz .	 Maybe he had it come to me .
+180  What is her sorry ass name ?	 Eve Warren .
+181  What was she doing with Mount ?	 Take a guess .
+182  I guess it was just his turn .	 She kept your ring ?
+184  Any idea where she is now ?	 Probably ripping somebody else off .
+186  Let her brother shoulder that .	 Bitch .
+188  Shattered the lower radius and the pisiform .	 Yeah .
+189  I got some nerve damage , too .	 That\' s impressive
+191  You want to see the scars ?	 Thanks anyway .
+194  Bones ?	 I like this music .
+197  What ?	 It\' s reasonable .
+202  Snippy ?	 What are you , 70 ?
+206  Yoga deals more with ...	 Why exactly are we talking aut this ?
+207  Because you\' re tense .	 Because we\' re talking .
+208  You switched my music .	 - Roy Taylor ?
+212  Barely discernible .	 Slight indentation ?
+213  Could be congenital or a bone anomaly .	 Probably .
+215  What do you do ?	 Go back home to Michigan .
+216  See the family .	 I have three brothers and four sisters .
+217  Do you enjoy that ?	 God , no .
+219  They think I\' m a freak .	 Then why do you go ?
+220  It\' s my family .	 They love me .
+222  Work it out , work it out .	 That\' s right .
+224  What do you want ?	 Special Agent Booth , FBl .
+225  This is my associate Dr. Brennan .	 - What you call this ?
+226  - The Krump .	 The kids -- they come her they dance .
+227  They don\' t gangbang .	 So what do you want ?
+228  You didn\' t come here for a dance lesson .	 Hi , Maya .
+229  How you doing , baby ?	 Come on now .
+241  Do you know Roy Taylor ?	 Met him .
+242  DJ Mount . I like his stuff .	 He\' s pure .
+244  Murdered ?	 You can\' t find Evie ?
+245  No .	 She told me she loved him .
+247  Yeah .	 For Maya .
+256  Yeah ?	 Yeah .
+262  And that\' s based on ... ?	 Money and meth .
+267  Here .	 What ?
+277  That\' s not polite .	 What are you , DEA ?
+278  Metro cop ?	 I\' m Special Agent Ronald Oakes .
+281  That\' s bull .	 I made you .
+282  Now you\' re making excuses .	 Got any keys for these cuffs ?
+283  Fine .	 Have it your way .
+287  You ran him , right ?	 Yeah .
+288  Came back clean ?	 Exactly .
+290  But we can\' t get enough to touch him .	 Our informants disappeared .
+293  Nah , doesn\' t scan .	 Mount was into Jesus , not chalk .
+296  - So I don\' t get my gun back .	 - No .
+298  Oh ... count on it .	 I\' ve been investigated for years .
+300  Because Terence Baskin is my past .	 I am 100 % clean now .
+301  This is my life now .	 This and my recorrd label .
+303  Where did you find her ?	 Museum .
+306  Yeah , in fact ...	 Yeah ?
+308  So ... ?	 I\' m saying , Mount\' s dead ,
+309  Eve\' s gone missing .	 You might want to consider that .
+310  Let\' s go .	 What do you think ?
+318  He drools a little .	 What\' s up with that ?
+320  Is he sincere ?	 Yeah .
+321  All right , then , we accept .	 Good boy , Tutti .
+322  Tutti found something .	 Oh , maybe he\' s just lazy .
+323  Lying down is his indicator .	 Tutti found it .
+328  - They\' re up in the lounge .	 Zack , clean the bones .
+330  Jamaica ?	 God , that\' s incredible .
+335  Yeah , see you later .	 Living together ?
+336  Silly .	 Thanks , you know , for bringing me a shirt .
+337  Yeah , okay .	 I\' il talk to you later .
+338  Yeah .	 - Hi , Tessa .
+339  - Yeah , okay , bye .	 - It\' s Eve Warren .
+340  - Eve Warren .	 - Uh , cause of death ?
+341  - Same as Mount .	 - Meth overdose .
+345  Zygo- zu ... ?	 You said she was killed by crystal meth .
+351  I got it .	 He had nerve damage .
+356  See , you got tricks .	 You gonna twist all my words around .
+357  Better not say anything at all .	 You didn\' t kill Eve Warren .
+358  So you say .	 The Rulz says say nothing .
+359  - He wants us hold him .	 - Why ?
+362  I\' il tell you what .	 I\' il make you a better deal .
+364  Oh , that depends on what you tell us .	 Wait !
+365  Wait !	 You\' re negotiating to put this guy in jail ?
+367  Sweet .	 Where am I ... in Backwards World ?
+368  What have you got ?	 Look , I can tell y\' all .
+371  You mean commit suicide ?	 Where did you find her ?
+372  The museum .	 I mean labels .
+376  But what about Eve ?	 Eve couldn\' t kill nobody .
+380  Hall\' s got motive to kill Mount .	 Why ?
+382  Thank you .	 It\' s still murky psychological guesswork , though .
+388  Thanks .	 Good job .
+389  - What the hell is that ?	 - Not sure .
+396  What ?	 You know what ?
+397  I\' m going to spread the pain .	 Okay ?
+398  That\' s my new motto .	 Wait !
+399  I can help spread pain .	 Wait !
+400  We know you did it .	 What ?
+403  That\' s harassment .	 I\' il sue .
+409  I need the cane .	 Arrest him for what ?
+411  It\' s the cane we want .	 Fine , here .
+415  Come on Let\xc2\xb4s go !	 Get this :
+422  What ... what is Stage Six ?	 One :
+423  Spend the Night ;	 Two :
+424  Spend the Weekend ;	 Three :
+425  Exchange Keys ;	 Four :
+426  Sexy Weekend Getaway ;	 Five :
+427  Extended Vacation ; inevitably folloby Six :	 Move in Together .
+428  I\' m an anthropologist .	 I know the stages of everything .
+429  You made those up .	 I did not .
+430  Yes , you did .	 They got to Stage Five and they balked .
+431  Not Booth .	 Booth did not balk .
+433  Hey !	 The mark on Mount , the mark on Eve .
+437  What , and let them have all the glory ?	 My chest hurts .
+438  Yeah .. all the glory .	 Here\' s what we know so far :
+442  Oh ?	 Tessa\' s not going .
+443  Something came up at work .	 Too bad .
+444  I\' m sorry .	 Hey , I like going on vacations by myself .
+445  Really ?	 Sure , nothing wrong with being alone .
+450  I think about not coming back .	 Seriously ?
+
+2  " Creature Feature Show . "	 Ah- hhh .
+3  The doctor is in .	 Don\' t scream .
+4  Don\' t move .	 Stay tuned for Channel 68\' s
+6  I will be with you until the end .	 Howdy folks .
+7  Black Blood .	 Violence .
+8  Freaks of Nature .	 Come on down to Captain Spaulding\' s
+9  Museum of Monsters and Madmen .	 See the Alligator Boy .
+11  It just tastes so damn good .	 ( clucking )
+12  Spaulding : ... with a meat cleaver .	 ( laughing )
+13  See it , hear it , and actually feel it .	 ( laughing )
+14  Coming after you to rip your flesh apart .	 ( laughing )
+15  Unbelievable but true .	 ( laughing )
+16  See it , hear it , and actually feel it .	 ( laughing )
+19  That retard that hangs out at Molly\' s Fruit Stand ?	 - Yeah .
+21  He\' s one horny retard .	 Well , ain\' t they all ?
+27  Goddamn .	 They had to take him to the hospital .
+30  I had to snake the shit out that thing .	 Here you go .
+33  Keep your paws where I can see them .	 Gunman # 2 :
+36  - and drag his ass back in here .	 - Right .
+39  And I hate clowns !	 Gunman # 1 :
+40  Put that shit down .	 Put it down !
+44  - Richard Wick , right ?	 - Shut your trap .
+46  I remember now .	 All the guys made fun of you .
+47  - Called you Little Dick Wick .	 - Shut up !
+50  Fuck it !	 Most of all , fuck you !
+51  Spaulding :	 Goddamn motherfucker got blood all over my best clown suit .
+52  ( man laughing )	 # She got a corpse under her bed #
+55  # Come on in #	 # This is the house #
+56  # Built on sin #	 # This is the house #
+57  # Nobody lives #	 # This is the house #
+60  # All your crying did no good #	 # This is the house #
+61  # Come on in #	 # This is the house #
+62  # Built on sin #	 # This is the house #
+63  # Nobody lives #	 # This is the house #
+64  # You get what you give , yeah , yeah ... #	 Preacher :
+70  Two , three bucks .	 Two , three bucks ?
+72  - Get off .	 Jesus Christ , Jerry .
+77  - Bill :	 Awesome , great !
+78  - Jerry :	 Fried chicken and gasoline .
+80  Bill :	 Dick .
+81  All right .	 I\' il pump the gas .
+83  Holy ... crap !	 You gotta see this place .
+84  It\' s boss .	 - How boss ?
+86  Hell , yeah .	 Wakey , wakey !
+87  Eggs and bacon .	 Hey , sweetie , come on .
+89  Come on , move , move !	 Let\' s go .
+91  What\' s in that case over there ?	 Jerry :
+92  Hairless monkey .	 Did you see the crocodile boy ?
+94  Howdy .	 - Hi .
+95  I love this place .	 How long have you been running this place ?
+100  - Hell , son .	 How many dukes do you know about ?
+101  - Greatest American ever lived .	 - Look at that .
+104  Ah- hhh .	 Space boy .
+107  I don\' t drive cross country .	 But if you did .
+109  You little dickens , you .	 I know what your problem is .
+113  Gotcha !	 You are such a bad clown .
+115  Son , look around .	 Would I be surprised ?
+116  Finally .	 Great , great .
+118  - What tickets ?	 This isn\' t everything .
+119  There is actually a murder ride .	 A murder ride ?
+122  Clown :	 Anytime this year , people .
+125  - Pain !	 - Billy , let\' s go .
+126  - Quit that , sport .	 - Sorry , Captain Spaulding .
+128  Fish .	 Masochist , sadist , child killer and most importantly , cannibal .
+130  How many -- - Hold all questions .	 Man\' s voice :
+131  No , no , help .	 ( woman screaming )
+134  ( coyote howling )	 Now , one of our local heroes ,
+135  S. Quentin Quale , aka Dr. Satan .	 Oh shit !
+137  Through primitive brain surgery --	 - Jerry , stop it .
+139  They took his ass out and hung him .	 ( chuckles )
+142  Maybe he lives next door to you .	 Tour\' s over .
+143  Exit through the doors .	 That was so bad- ass .
+144  Dr. Satan .	 Ah- hhh , Dr. Satan .
+147  I\' il be right back .	 I love you .
+151  - Hello ?	 - Hey , Dad .
+161  Go straight up this road .	 Make the first right .
+162  First left .	 Come straight across and down .
+163  Can\' t find it ?	 Tough .
+164  - Here\' s your map .	 - Right on .
+165  - Here\' s your complimentary chicken .	 - Oh , wow .
+169  Hitchhiker .	 - What ?
+170  Should we stop ?	 - We can\' t leave her in the rain .
+172  - where ya headed ?	 - I was just going home .
+174  - So , you live around here ?	 - Yeah .
+175  Do you know where this Dr. Satan tree\' s at ?	 Yeah .
+176  You know where that\' s at ?	 It\' s right by my house .
+177  - I can show you .	 - Really ?
+179  So , a tree ?	 Where\' s it at ?
+180  - What tree ?	 - Mary :
+181  Okay , this is crazy .	 She obviously doesn\' t know anything .
+184  That\' s the way .	 ( gun cocks )
+185  Fuck .	 I think we blew a tire .
+186  - Oh poop .	 - Oh , hell .
+189  What would plan B entail ?	 - Jesus Christ , Jerry .
+192  Denise :	 Would you turn the radio off , please ? !
+193  God !	 We can walk to my house from here .
+194  What ?	 My brother\' s got a tow truck .
+197  There\' s no sense in everyone getting drenched .	 TV reporter :
+200  - Actor # 2 :	 That\' s an idea .
+201  - Actor # 3 :	 What is ?
+203  I\' m sure it would be very amusing .	 Man :
+204  Why you ask ?	 Why is not the question .
+205  How ?	 Now , that is a question worth examining .
+208  My brain is frozen ,	 locked .
+210  Fuck it .	 ( woman giggling )
+212  The door\' s locked , I gotta go around .	 Just wait here .
+213  ( woman screams )	 Jesus Christ !
+214  Don\' t do that .	 You scared the shit out of me .
+216  - Yeah , he already left .	 - Come on , inside .
+217  - What ?	 He left ?
+219  I just don\' t understand why --	 What was that ?
+220  What ?	 I didn\' t hear anything .
+221  Turn the radio off .	 Now listen .
+224  Calm down , calm down .	 Jesus H. Christ .
+228  That\' s what makes it fun .	 Yeah , I guess .
+229  You sure do a lot of guessing .	 - Thank you .
+230  - You\' re welcome .	 Wow .
+233  - Okay , hey .	 Need those to see , thank you .
+234  How do I look ?	 Terrific , really .
+235  Tasty .	 Ain\' t the only thing tasty in this house .
+236  Okay , okay .	 I wonder what time --
+238  It ain\' t past my bedtime	 Are you flirting with me ?
+239  What ?	 Oh , no .
+240  ( horn beeping )	 Great !
+241  They\' re back .	 Whoppie- fucking- do .
+243  Can I use your phone , please ?	 Hello ?
+244  Ain\' t got one .	 - Oh , hi .
+245  - Goodness .	 You really don\' t have a phone ?
+246  No .	 I once had one back in \' 57 , but --
+247  I don\' t quite remember .	 There\' s nobody round here .
+249  His name is Rufus , Rufus Jr .	 But we all call him
+250  - RJ .	 - Makes sense .
+252  But you humans can call me Jerry .	 Jerry .
+257  Shut up , dude .	 Oh , I get it .
+259  Oh really ?	 I hope something changes your mind someday .
+260  - Mama , Tiny\' s home .	 - What about RJ ?
+263  A couple of hours ?	 What ?
+268  Jerry .	 You\' il have to forgive Tiny .
+269  He can\' t hear so much .	 That poor baby .
+280  Give me a B. Give me a Y.	 What\' s that spell ?
+281  What\' s that spell ? !	 What\' s that spell ? !
+282  Baby .	 You\' re damn right .
+285  # All the kids want somethin \' to do . #	 Okay now .
+287  Can we ?	 Gosh , kid , put it on .
+289  Do you know anything about the legend of Dr. Satan ?	 - Bill :
+290  Here we go .	 - Shut up .
+293  And you brought Little Wolf .	 Oh , my baby .
+294  Oh my God .	 It\' s such a special night for me .
+302  All :	 " Got me a live one . "
+303  Can we change the subject , please ?	 Dinner\' s over .
+305  Eat your wife\' s pussy ...	 I mean jam your face in it !
+308  You\' re gonna wake up grandma .	 Bravo , man .
+310  # I\' m not #	 # One of a greedy kind ... #
+312  # I\' m not #	 # Resting until I find #
+313  # What would make your eyes glisten #	 # With joy #
+314  # Now listen #	 # Big boy #
+316  # I wanna be loved by you #	 # Alone #
+319  - # Alone ... # - All right .	 - Denise :
+320  Jerry . - # Boop- boop , I couldn\' t #	 # Aspire #
+322  - Fucking slut !	 - You shouldn\' t have done that .
+323  Oh , really ?	 Are you gonna do something about it ?
+324  - I\' il do something , motherfucker .	 - Yeah , come on .
+326  - Come on , Ma ,	 - this bitch has got it coming .
+327  - No , I told you , remember ?	 - Car\' s done .
+328  - Thank God .	 I suggest that you kids leave .
+329  We\' re gone .	 Fuck you !
+330  - I love you , Mama .	 - I know .
+331  - Denise :	 Lock the fucking doors !
+332  - Mary :	 Hurry up .
+335  That\' s that .	 Jerry :
+336  Let\' s get out of this fucking nuthouse .	 ( everyone screaming )
+337  Mary :	 What\' re you doing ?
+338  Why are you stopping ?	 - I gotta open the gate !
+339  - For Christ\' s sake , hurry up !	 Oh , shit !
+340  ( shouting )	 Mary :
+341  Somebody help him !	 - Denise :
+342  Oh shit !	 - Mary :
+343  What are they doing to him ?	 Mary :
+344  Who\' s that ?	 Denise :
+345  Oh my God !	 - Mary :
+346  Shut the fucking door !	 - Denise :
+347  Oh , no !	 Somebody help us !
+348  Oh my God !	 Get away from us !
+349  No , please .	 Oh my God !
+350  No- ooo !	 Oh my God !
+351  Help me !	 Help me !
+354  Maybe time to get away with stuff .	 ( telephone ringing )
+355  Huston .	 Donald Willis .
+360  They\' re probably just stuck in the mud someplace .	 Otis :
+361  Shut your mouth !	 I said , shut your fucking mouth !
+363  Work !	 You ever work ?
+369  - Doing what ?	 Messy up your day ?
+370  Where\' s Bill ?	 - Where\' s Bill ?
+371  - Bill ?	 ls he okay ?
+375  Where is he ?	 Hi .
+376  # ... brick house #	 # She\' s mighty mighty , #
+381  # That a woman needs ... #	 Where is he ?
+382  Can I see him ?	 Can I see Bill , please ?
+383  Let\' s go see .	 Behold ...
+384  - Fish- boy !	 - Oh my God !
+388  Fuck you , you fucking freak !	 # Whose gonna dry #
+389  # Your big blue eyes #	 # Day after day ? #
+390  # Who\' s gonna jump #	 # When you say frog ? #
+401  Cut the crap , Spaulding and get with the facts .	 Huh ?
+402  What did you see ?	 Who was she with ?
+403  - Where was she going ?	 - I don\' t know .
+405  - Questions about what ?	 - I don\' t know .
+406  This and that .	 Mostly a bunch of tired Dr. Satan bullshit .
+408  I wrote \' em a map .	 Out to the old farm road .
+409  I figured , what the hell ?	 It wouldn\' t do no harm .
+411  What else ?	 Nothin \' .
+417  Enough talk !	 Write .
+420  I\' m gonna kill that skunk ape .	 Please , Tiny .
+421  Please let me go .	 Let me go .
+422  Help me .	 Please , God , please .
+423  Thank you .	 Thank you .
+424  I\' m just gonna go now .	 I\' m just gonna go home .
+426  I\' m just gonna go now .	 I\' m just going home now .
+428  Playtime is over .	 ( police radio chatter )
+429  It matches .	 Call it in .
+430  - I think we found \' em .	 - Yeah .
+431  Hey , poopie pants .	 What\' s new ?
+432  Where the fuck is Bill ?	 Where\' s Denise ?
+433  You can\' t keep us here .	 Shut up !
+434  Wanna play a guessing game ?	 Guess what number I\' m thinking of .
+435  Eat shit and die .	 No , wait , please .
+436  Come on , stop it .	 What do you want from me ?
+440  I don\' t know .	 Marilyn Monroe .
+441  No , Betty Davis .	 Sorry , you lose !
+443  Yeah .	 No mercy shown here .
+444  Didn\' t find any bodies , did ya ?	 - Not yet .
+446  - I found something .	 - What\' s that ?
+448  - Yes , sir .	 - Toss them here .
+449  - Oh , Goddamn .	 - Dick :
+450  You got something , Georgie ?	 Yeah .
+451  We found something .	 Otis :
+453  Hope you like what you see .	 Hope you like what you see !
+454  Just hold it a minute , Grandpa .	 Grandpa Munster :
+455  At a time like this , you\' re taking pictures ?	 Herman :
+461  Mm- hmm .	 This doesn\' t seem right to me .
+464  - Mr. Willis ?	 - Yes , sir .
+466  Donald Willis .	 Any leads ?
+468  What about this body you found ?	 You know about that ?
+469  Local girl .	 Karen Murphy .
+470  One of the cheerleaders that went missing last week .	 That\' s it ?
+472  - This is insane .	 - Don\' t you worry about it .
+475  This is hell .	 This is hell .
+477  Come with me .	 ( knocking on glass )
+478  I hate fucked up families !	 - It\' s just a dip .
+479  - Mama :	 Otis !
+480  Otis , come quick .	 There\' s cops out there .
+481  - What ?	 Damn !
+482  - How many ?	 - Don\' t worry about it .
+483  - I don\' t know .	 I only saw one .
+484  Fucking pigs always travel in packs .	 - Take this .
+485  - What should I do ?	 Go downstairs and play nice .
+487  These packrats throw anything away ?	 - I don\' t think so .
+488  - Hold this thing .	 Hello ?
+490  Yeah .	 Hello ?
+491  Oh my God !	 - Oh my God !
+494  - Hello , Officer .	 - Good afternoon , ma\' am .
+497  I\' m looking for a missing girl .	 I\' m serious .
+499  Almost bit off my pinky toe .	 Yeah , yeah , yeah .
+500  Shh , you hear that ?	 Yeah .
+503  Hey , hey !	 Sheriff\' s Department , open up .
+506  It might stir something up .	 No .
+507  I don\' t think so .	 Ma\' am .
+508  It\' il only take a minute .	 Oh , all right .
+510  Thank you , ma\' am .	 # I remember you ... #
+512  Oh , this one looks familiar .	 ls he on the TV ?
+514  - Wydell ?	 - Excuse me , ma\' am .
+515  - Wydell , over !	 Wydell , over !
+516  - Wydell , over .	 # I remember #
+517  # Two distant bells #	 # And stars that fell #
+519  # And the angels ask me #	 # To recall #
+520  # The thrill of them all #	 # Then I will tell them #
+521  # I remember you #	 # I remember #
+522  # Two distant bells #	 # And stars that fell #
+523  # Like the rain #	 # Out of the blue #
+524  # When my life is through #	 # And the angels ask me #
+525  # To recall #	 # The thrill of them all #
+526  # Then I will tell them #	 # I remember #
+527  # Tell them I remember #	 # Tell them I remember you . #
+528  ( dog barks )	 ( coyote howling )
+535  Great story , Goober .	 How much we owe ya ?
+539  Where\' s Otis ?	 Where\' s Otis ?
+540  He\' s comin \' .	 He\' s got something real special this year .
+541  Rufus :	 Otis , Otis , Otis ...
+542  Otis :	 I\' m the one who brings the Christmas candy .
+545  - Who\' s your Daddy ? !	 - Who\' s your Daddy ? !
+548  Who\' s your Daddy ? !	 Well , I say my little darlings .
+550  Come on , speak to me , boy .	 I remember now .
+551  Dr. Satan .	 Goddamn it , everybody got to know about Dr. Satan .
+556  It\' s more fun with the screaming .	 I like that too .
+559  - Get in now .	 - Mama :
+560  Wait , wait , wait ...	 I wanna say goodbye .
+561  Goodbye , sweetie .	 We could\' ve been great .
+563  Baby :	 I swear to God , we won\' t tell .
+564  I swear to God .	 Ain\' t we just having a fucking hoot ?
+565  Rufus :	 Get your fucking ass up , boy .
+566  Otis :	 Come on , we aint \' got all night .
+570  Run , rabbit , run .	 Run , rabbit .
+571  Run , rabbit .	 Run , rabbit .
+572  Run , rabbit , run !	 Run , rabbit !
+575  Mary .	 Told you .
+576  I\' m gonna get you .	 Mary .
+577  Mary ...	 I\' m gonna get you .
+578  I\' m coming to get you .	 ( laughing )
+579  ( yelling )	 ( screaming )
+582  No- ooo , no !	 No hanky- panky .
+583  Rufus , put the lid on .	 No- ooo !
+584  No- ooo !	 Oh , no !
+585  No !	 No , no , no !
+586  Stop !	 No !
+587  No !	 No- ooo !
+588  No , no- ooo !	 ( coyote howling )
+589  ( distorted audio ) Bury me in a nameless grave .	 Tape :
+590  Bury me in a nameless grave .	 Jerry , wake up , wake --
+592  Bury me in a nameless grave .	 Oh my God !
+593  - Jerry :	 No- ooo !
+594  - Jerry !	 No , Jerry !
+595  Jerry :	 Please !
+596  Help !	 Help me !
+598  ( echoing ) Jerry ?	 Jerry ?
+599  Thank God .	 Please help me .
+600  ( siren wailing )	 God !
+601  ( screaming )	 Jerry ?
+602  Oh , God , no , no , no ...	 No !
+603  ( mumbling )	 No- ooo !
+604  No !	 God , no , no .
+605  No , no !	 No- ooo !
+606  ( chanting )	 ( breathing heavy ) ( heartbeat )
+607  Go away !	 Go away !
+608  Sweet baby Jesus , girl .	 What the hell happened to you ?
+609  I got away .	 I recognize you .
+611  - All right , all right .	 Just sit back and relax .
+613  I\' il get you there , yeah , yeah .	 Woman :
+614  Oh , yeah !	 ( moaning )
+633  # Run away #	 # Run , run , rabbit #
+635  # Run , run , rabbit #	 # Run away #
+636  # A child so pure #	 # Dyin \' in the clutch #
+637  # A child so pure #	 # Down in the hutch #
+638  # Run , run , rabbit #
+1  What do you make of this ?	 What is it ?
+2  Clive thinks he\' s found a volcanic pipe .	 Elementary geology , pal .
+5  It\' s weird .	 - Where is it ?
+6  - About six , seven kliks that way .	 Jesus !
+8  Maybe some kind of pressure dome .	 It\' s weird , though .
+10  Emergency .	 Temperature drop .
+11  What\' s happening ?	 System failure on the Antarctica module .
+12  It\' s not responding .	 Primary feed valve\' s iced up .
+15  Where the hell are you ?	 We\' re right here , Barb .
+16  Hang in there .	 Mel , find the glitch .
+17  We flight tested this situation a thousand times .	 What\' s happening ?
+18  Terry\' s starting to hypotherm out here !	 Any second now .
+19  Mel ?	 I can\' t find it !
+20  - It\' s forty degrees below outside !	 - Sequence analyzer to override .
+22  - The whole system could shut down .	 - Mel , I know .
+23  Just do it .	 He\' s going into shock !
+24  Just do it !	 It\' s stabilizing , Zack .
+25  Temperature\' s rising .	 Sorry about that , guys .
+27  You\' re all heart , Doc .	 Good work , guys .
+29  Shit !	 This cannot be happening .
+31  What\' s that ?	 Tylenol !
+32  Cool .	 Extra strong .
+33  Hi .	 You look like shit .
+34  It\' s nice to meet you too .	 No , I ...
+35  Welcome to hell .	 Hi .
+37  Apparently I\' m supposed to clear security here .	 - Hi .
+40  It\' s recycled .	 The water\' s distilled .
+42  Jesus !	 Fatty Nghuza works up at C camp .
+43  Enough said .	 You okay ?
+45  Another snake in the electric fence .	 Look at this .
+46  Big one , too .	 I need to see your case .
+47  That\' s kinda personal .	 Call me an optimist .
+48  - What\' s this ?	 - It\' s Charlie .
+49  He\' s cute .	 It\' s a prototype .
+50  It\' s a subterranean analyzer .	 What does it do ?
+53  Mikki ?	 Is this what you\' re looking for ?
+57  I guess it\' s your lucky day .	 Thanks .
+62  Listen , I do the technical shit ... you drive .	 Okay ?
+63  - You riding with us ?	 - Yeah .
+67  Rebels , huh ?	 They\' re after the diamonds .
+68  You\' il only frighten the poor baby .	 All aboard !
+70  Jesus !	 Who ever heard of prospectors getting lost , huh ?
+71  Hey , Magda ?	 Which truck did they say was missing ?
+72  Harvey Slater\' s outfit .	 Clive is on that truck .
+73  Got it , Magda .	 To your right .
+74  About four o\' clock .	 Ja , that\' s them .
+75  Hang on tight , here we go .	 Is it Clive ?
+76  Yep .	 And I think that\' s what\' s left of Paul .
+77  You ever done a murder investigation ?	 - So what we do ?
+79  Yep .	 - D\' you know who\' s missing ?
+80  - Probably Harvey .	 If I catch the fucker , he\' s dead .
+81  You can\' t think Harvey did this ?	 I see two bodies .
+82  One missing .	 Until I speak with Harvey , he\' s it .
+83  Hey !	 Karl !
+84  Over here !	 Titus has got something .
+85  Okay , Harvey .	 We\' ve got you now , boy !
+86  I don\' t understand .	 What ?
+88  These tracks go on for bloody miles .	 It\' s bizarre .
+89  What are they ?	 Kurt .
+90  Go get Magda to bring the truck .	 They\' il pick us up .
+91  Don\' t .	 Sorry .
+92  A religious thing , huh ?	 No , not my religion .
+93  They\' rejust a warning .	 Let\' s get out of here .
+94  Let\' s get out of here .	 Now .
+95  Come on , Magda .	 He\' s running !
+96  There\' s not much left .	 I\' ve never seen anything like it .
+97  - Any sign of a struggle ?	 - Not that I can see .
+98  Listen ...	 I think Harvey Slater\' s on the run .
+99  Get me some experts up here .	 A forensics , or something .
+100  Roger .	 But it\' il take a couple of days to organize .
+101  So get up to C camp for further instructions .	 Negative .
+103  To the left there , Magda , over that dune .	 Now what ?
+105  - Maybe you\' re confused .	 - Maybe you think these are footprints .
+106  - Please .	 Please .
+107  It\' s impossible .	 It\' s the wrong body , guys .
+109  - Stuffed up his leg real bad ?	 - He had a limp .
+110  He had a plate .	 - How are you doing , Harvey ?
+111  - This cannot be Harvey fucking Slater !	 This is a dead end .
+118  I like the outfit , by the way .	 It\' s natty .
+119  Michaela .	 But everybody calls me Mikki .
+120  I don\' t understand .	 When we started ... there were two feet .
+121  But now there\' s four here .	 - Tokolosh .
+122  - A religious thing ?	 Not my religion .
+123  It\' s just a warning .	 It\' s just a warning .
+124  So cool .	 Hey , surfer boy !
+126  - You should try that .	 - Maybe some other time .
+128  Well , you and Charlie .	 Damn thing\' s been beeping all night .
+129  It still needs some work .	 It\' s freezing !
+131  Relax , townie .	 Body warmth .
+132  Stay close , stay warm .	 First rule of survival out here .
+135  I ...	 Relax .
+136  Are you and Karl ...	 We ... had a brief thing .
+137  Past tense , huh ?	 And you ?
+138  My work keeps me pretty busy .	 I design extreme survival systems .
+141  Wake up !	 Wake up , people !
+142  There\' s something out there !	 - What ?
+146  It was as big as a goddamn grizzly bear !	 This is Africa .
+147  There are no bears !	 I know that , Karl !
+149  My problem is that Bigfoot nearly cashed my check !	 What !
+150  Oh , great .	 Sleep it off .
+151  What are we supposed to do ?	 The bones are gone .
+152  What are you talking about ?	 Okay , what\' s the game ?
+157  I\' m a scientist .	 I find facts , I collect data ...
+158  - and I derive conclusions .	 - So , start fucking deriving !
+159  What\' s going on ?	 I have no idea .
+160  - Yet .	 - That\' s great .
+161  So much for science .	 It\' s a Tokolosh .
+162  What is that ?	 Tokolosh ?
+163  You know sometimes bad shit happens ?	 Here it doesn\' tjust happen .
+165  You bang your thumb with a hammer .	 Tokolosh !
+166  A fucking asteroid wipes out the planet .	 Tokolosh .
+168  With a capital bull !	 - Have you ever heard of Esikhulu ?
+169  - What\' s that ?	 The Sandmother .
+170  She was the first .	 And she will be the last .
+171  She takes what belongs to her .	 The animals .
+172  The people .	 And she drinks the life from their bones .
+173  And this way she lives forever .	 Brother fights against brother .
+174  Father turns against son .	 She breaks people ... apart .
+175  Come on , people .	 Let\' s move it out .
+176  Over here .	 Guys .
+177  Got it .	 Footprints go up the side of the dune .
+178  Karl ?	 Karl ?
+179  - What ?	 - Over here .
+181  Come on , Magda .	 We\' re moving .
+182  Twenty minutes .	 Then we can go .
+183  - Now !	 - It\' s dark , Karl .
+184  So bloody what ?	 How are you gonna follow footsteps in the dark ?
+185  With your torch ?	 Jesus , Magda !
+190  Magda , kill the engine .	 Come on .
+191  Mikki ?	 Titus .
+192  There !	 Son of a ...
+193  What the fuck is that ?	 We\' ve got him .
+194  Give me that .	 D\' you hit him ?
+195  What happened ?	 I heard a gunshot .
+196  Nothing .	 Just a pile of bones .
+197  - Harvey .	 - It\' s the same bones .
+199  You catch him ?	 What the hell is this place ?
+200  Are you okay ?	 Fine .
+201  You ?	 No , I\' m not okay .
+205  Don\' t push me .	 It can\' t have gone far .
+206  Get this bloody heap going .	 Check the ammo .
+209  And flesh that disappears .	 You call it whatever you want .
+210  We call it Esikhulu .	 Come on , Magda .
+211  Let\' s move .	 He\' s running again .
+212  - Out !	 Everyone out !
+213  - Clear !	 What was that all about ?
+219  The damn thing\' s broken .	 I\' m gonna try an emergency beacon .
+220  It\' s about damn time .	 Hey , come back !
+221  - Come back !	 - He\' s seen us .
+223  - Yeah ?	 How do you know ?
+225  - This is an emergency .	 - Why ?
+231  - Mikki , go with Magda .	 Who suddenly made you the boss ?
+232  It\' s either Mikki or me .	 Nobody does anything by themselves anymore .
+233  We already have three dead bodies .	 Jesus , it stinks in here !
+234  Titus .	 Your watch , buddy .
+235  Seen anything ?	 Kurt .
+236  Kurt ?	 Shit !
+237  Karl !	 Karl !
+238  It\' s got Kurt !	 Karl !
+239  Come here !	 What is that ?
+240  It\' s okay .	 Get him up off the ground .
+241  Get him in the truck !	 - Karl , get out of there !
+242  - Pull him .	 Help me get him back to the truck .
+243  - Oh my God !	 - Move it !
+244  They\' re still coming !	 Enough shooting .
+245  Plan B.	 - Karl , what the hell are you doing ?
+246  - Torch them !	 - I\' ve got to reload .
+248  You\' re gonna take us all with you .	 Oh God !
+249  - I walk through the valley ...	 - Pray hard , sweetheart .
+250  Sometimes ... praying just isn\' t enough .	 No , wait .
+251  Look !	 They\' re turning away .
+252  See anything ?	 Nothing .
+253  That should steady him .	 He\' s losing a lot of blood .
+255  Soon .	 What else have you got ?
+257  Move .	 Now !
+258  What the hell are you doing ?	 It\' s turning away .
+259  Let it go !	 Enough .
+261  Are we clear ?	 Well ... shooting it wasn\' t working .
+262  So what are you gonna do ?	 Reason it to death ?
+264  - Methodology .	 - You tell that to Kurt and Titus .
+269  Leave Titus with me .	 I can medicate him ... - and pray .
+270  - Oh , enough mumbo- jumbo .	 I say we all go .
+271  We don\' t have a choice .	 Who\' s we , Karl ?
+272  I have a choice .	 I\' m staying .
+276  The Sandmother .	 - She is searching for her children .
+277  - Take it easy , man .	 Not now , Titus .
+278  Karl .	 That thing .
+279  If it is searching ...	 I\' ve never seen anything like it before .
+281  The Sandmother .	 She takes what belongs to her .
+283  Come on .	 Where is it ?
+284  I\' m getting a reading from somewhere there .	 That\' s great .
+288  Ants .	 Formic acid .
+290  It\' s one of the most powerful acids there is .	 Ants !
+291  Look .	 What the hell is that ?
+292  Sandstorm .	 Take cover .
+293  - Where ?	 - Move it !
+294  There\' s sand everywhere .	 - Are we all okay ?
+295  - Where\' s the fuel ?	 Thejerrycan .
+296  It\' s almost empty .	 Charlie ...
+297  It\' s fucked .	 So , my friend ... are we .
+298  - How much further ?	 - We could go right past it .
+303  Yeah .	 What\' s that sound ?
+304  - It\' s the sound of the desert .	 - What ?
+307  There is no wind .	 My God !
+308  Magda !	 It got Magda .
+309  What the fuck is that ?	 Ants .
+310  Listen .	 Radio .
+311  That\' s the prospector\' s truck .	 It must bejust over that dune .
+312  Lucky the radio still works .	 Johan will be here soon .
+313  Take a look at this .	 Karl .
+314  Give me your flashlight .	 - What is it ?
+316  For what ?	 The queen .
+317  What ?	 That creature .
+318  Esikhulu .	 It\' s ants .
+320  They just want the bones .	 It gives them structure like a skeleton .
+322  But why ?	 Survival .
+323  Her home\' s been busted up .	 She can\' t go anywhere alone .
+324  Give her a set of bones ... she can go everywhere .	 Ants ?
+325  That\' s impossible .	 Why ?
+326  They\' ve been here since before the dinosaurs .	 Millions of years .
+327  It\' s like Titus said .	 Esikhulu .
+328  In the heart of the colony ...	 lies the queen .
+329  Karl ?	 Get out of the hole .
+330  Drop your gun .	 Now !
+331  Mikki , drop your gun now .	 You\' re under arrest .
+332  Move .	 Down on your knees .
+334  Shut up !	 They sent me to sort out this mess .
+335  Where are the others ?	 - They\' re all dead .
+336  - Back up there .	 Who\' s dead ?
+337  The prospectors .	 Magda , Titus , Kurt ...
+338  - Magda , dead ?	 Bullshit !
+339  - Listen to us , Johan .	 Why ?
+341  - And half you crew\' s dead .	 - No one killed anyone .
+342  Don\' t you see ?	 - It\' s Esikhulu .
+343  - Jesus !	 You people are bloody crazy .
+345  You think we stole the diamonds ?	 Fucking a , pal .
+350  - Fuck you !	 - Move !
+353  Look and learn .	 Karl !
+354  Stop !	 He\' il come around soon .
+355  He\' il be okay .	 - Now let\' s get out of here .
+356  - Not yet .	 We\' re going after it .
+357  Are you crazy ?	 This is our chance .
+359  - This thing is a fucking killer !	 - Exactly .
+361  Some place it can ...	 - Start a new colony .
+362  - Right .	 The old Evangeline Mine .
+363  That\' s right .	 This time we level the playing field .
+364  Gently , gently .	 Nitroglycerin .
+365  - Hey , what about me ?	 - You ?
+368  I swear !	 Shit !
+369  Just point and shoot .	 All right .
+370  It could be anywhere .	 We\' re never gonna see it .
+371  Guys .	 It\' s a generator .
+372  Forget it .	 This place has been out of use for ages .
+373  It\' s still got compression .	 Let me see your knife .
+374  You\' re wasting time , man .	 All right , smart ass .
+376  The nest\' il be buried .	 Watch your step , guys .
+377  There it is !	 Mikki .
+378  You want to play hard to get , do you ?	 - Karl !
+379  - What ?	 - We should stick together .
+380  - Stop !	 Get down !
+381  It wants you to go in there .	 Let it comes to us !
+382  No !	 We must finish it now !
+383  Karl !	 Karl , get out of there !
+384  Get out of there !	 Here !
+385  You okay ?	 Not bad for a city boy .
+386  - It\' s got me by the leg !	 - Hang on .
+387  - Oh God !	 - We got you .
+388  Karl !	 Hang on !
+389  Get out , it\' s gonna blow .	 It\' s starting to collapse !
+390  It\' s the queen .	 Mikki , look !
+391  It\' s like a giant brain .	 The central intelligence .
+392  The walls are moving !	 Mikki ...
+394  Kill it !	 Do it now !
+396  Kill it !	 Kill it !
+397  Come on !	 Run !
+398  It\' s through here .	 Are you okay ?
+399  I\' ve been better .	 It\' s all right .
+400  It\' s over .	 Come on .
+401  Oh my God !	 Johan !
+403  You know ...	 I think I could get into this fieldwork stuff .
+404  Does that mean ... you\' il be moving round more ?	 Yeah .
+407  Here .	 You should have this .
+408  Maybe we should get ...	 - the spares for the mine .
+409  - Yeah .	 Come .
+412  Fatty Nghuza .	 Take care of yourself , surfer boy .
+
+1  What did you see , boy ?	 Oh , my God !
+2  No !	 No !
+3  Aargh !	 Aaargh !
+7  What movie you going as again ?	 Sheena , Queen Of The Jungle .
+8  - Never heard of it .	 - I\' m not surprised .
+11  Ha ha ha !	 Do you wanna see something really scary ?
+12  Ha ha !	 Look out !
+13  Karen ?	 Oh , jeez .
+14  Karen ?	 Babe ?
+15  Karen ?	 Karen ?
+16  Ah .	 Karen ?
+17  Jesus .	 Is that all you think about ?
+19  Yeah , right .	 Just stay here a sec .
+20  Oh , man .	 Hey .
+22  Be right back .	 Fuck .
+23  Fucking scarecrow .	 Ray !
+24  How many beers did you have , Ray ?	 Raymond !
+25  Ray .	 Aargh !
+26  That was not funny .	 Ray ?
+27  Ha ha ha !	 - Enough , get in the car !
+29  Ah !	 Oh .
+30  Somebody , please help !	 Help !
+31  Hello ?	 No !
+32  Please , please .	 No , no , no , please , please .
+33  No , please .	 No !
+34  Hello , hello !	 Hello !
+35  Fuck off !	 Oh !
+36  Hey , man !	 You\' re missing your cue .
+37  Oh , no , man , I\' m right on it .	 Hello !
+38  - Hey , come on !	 - He\' s coming !
+41  - Anyone seen Jack ?	 - It\' s over here , man .
+42  - Pervert !	 - Ow .
+43  - What a bunch of zombies !	 - Are you talking about us ?
+44  - The audience .	 - Jack , there you are , buddy .
+45  Hey , guys , great gig !	 Really good .
+48  - Get off his case , sweetie .	 - Where are you from ?
+49  Groupies " R " Us ?	 - Fuck you !
+50  - Fuck me ?	 Fuck you !
+51  Hey , time out !	 You remember that fella from Hectic Records ?
+56  Joseph MacDonald ?	 - Edith\' s dead .
+57  - Who ?	 Your aunt .
+58  That there\' s from your Pa and ...	 Funeral\' s tomorrow afternoon .
+59  At the farm .	 Oh .
+61  Farm ?	 All right , my main man .
+62  Mr Sexual Healing himself , Marvin Gaye !	 Easy .
+63  Gunshot , patricide .	 Next !
+64  Kurt Cobain !	 - Shotgun , suicide .
+65  Next .	 - No , lan , did you say " patricide " ?
+68  Fratricide .	 No , no , no .
+71  - Asphyxiation .	 Dumb broad died choking on a ham sandwich .
+72  - Bzzzt .	 Wrong answer .
+73  - Chicken sandwich ?	 - Bzzzt .
+74  Wrong answer again !	 - Who cares what kind of sandwich !
+75  Mama Cass died of a heart attack .	 Urban legend , ham sandwich .
+78  Something about that farm we couldn\' t agree on .	 - What ?
+79  - My father .	 Huh ?
+80  150 bucks ?	 Are you crazy ?
+83  Like I know !	 Mac , any of this look familiar to you ?
+84  Vaguely ?	 Open the door , already !
+85  Daddy\' s gotta pee !	 Oh , wow .
+88  - God .	 - Oh , man , my hay fever .
+89  - That is so nasty !	 Jesus !
+91  Name\' s Billy Bob .	 Glad you could make it .
+92  Fuck off .	 Note to self - farming not a career option .
+94  It\' s a real pity about your aunt .	 Yeah .
+95  Thanks .	 Yo , where you going with the homecoming queen , son ?
+97  Why\' s that ?	 Cos you\' re standing in horse shit .
+100  None of your parents were married , you bitches .	 Perfect .
+101  No signal .	 You need a wider lens for that .
+102  - Ah , you\' re jealous .	 - Dream on .
+103  Hold it right there .	 Don\' t move !
+109  I\' m Joseph MacDonald .	 Joseph MacDonald .
+110  That\' s right , boy .	 And don\' t you ever forget it .
+111  I was just yanking your chain .	 Well , come here , boy .
+112  Come on .	 How \' bout a hug ?
+118  - How was she called ?	 - Pardon ?
+119  Aunt Edith , h- how did she die ?	 Natural causes .
+125  - Pardon me ?	 - Jethro , you look just like him .
+127  I want you off my land .	 Keep reading , Reverend .
+130  My daddy\' s dead .	 You and the others took care of that .
+133  Holy shit !	 Jeremiah , no !
+134  Jeremiah !	 No !
+138  Thanks for coming , Gene .	 Sorry about what happened .
+142  - No , it\' s dead quiet .	 Don\' t fear the reaper !
+143  - Now say you\' re sorry !	 - I\' m sorry !
+144  - Jesus !	 - You motherfucker !
+145  So , what\' s for dinner ?	 Best moonshine in the county .
+149  Just yanking your chain .	 Old family secret .
+150  Some things are better kept that way , right , son ?	 Je ...
+151  Sir , this is a truly wonderful meal .	 Thank you .
+152  - To Edith .	 - To Edith .
+153  May she rest in peace .	 And to my son .
+155  - To Mac !	 - And ...
+156  - The farm !	 Good , little lady !
+157  The farm !	 To old MacDonald\' s farm !
+158  - Are you OK ?	 - Yeah .
+159  Excuse me .	 Mac , man , what did I say ?
+160  I was just kinda goofing around .	 You just reminded him of Jethro .
+161  Who\' s Jethro ?	 - Jethro MacDonald .
+162  - My grandfather .	 Scared most people in this county half to death .
+165  - Holy smoke .	 So what did he do that scared people ?
+166  Er ...	 Why don\' t you ask Mac ?
+167  It\' s his granddaddy .	 - I don\' t remember .
+171  Rest in peace , Daddy .	 I was just yanking your chains .
+174  You ain\' t afraid of ghosts , are you ?	 Should I be ?
+177  Tell that to the lady you almost killed with a shovel .	 Jesse ?
+182  - Blood ?	 - Chicken blood .
+183  Don\' t you worry about Jesse .	 You get some sleep .
+184  I\' il see you in the morning .	 Man !
+186  What the fuck is ... ?	 Mmm .
+188  Mm- hm .	 You only live once !
+190  That\' s funny .	 What\' s wrong ?
+192  You\' re kidding .	 Really ?
+194  - Oh , yeah ?	 Think of it as a threesome .
+195  You , me and Jethro .	 What ?
+196  I don\' t know .	 Fine .
+197  Forget it then .	 No .
+198  Come on , man .	 ... chicken .
+199  Come on , baby .	 It\' s a farm , Keith .
+200  You\' re not supposed to shoot the rooster .	 He started it .
+201  Where is Mac ?	 His bed hasn\' t been slept in .
+202  What ?	 You mean I slept on that fucking couch for nothing ?
+203  - I guess so .	 - See , that\' s not cool .
+205  We\' re almost ready .	 Oh .
+207  I must have fallen asleep .	 - Where is everybody ?
+209  - What\' s wrong ?	 - Nothing .
+210  Wanna talk about it ?	 You didn\' t seem too interested last night .
+211  It\' s strange .	 I feel my old self coming back .
+212  So can I.	 Morning , Jeremiah .
+213  Morning .	 Well , better get a move on .
+216  Good luck on that reading thing .	 All right .
+217  Cool .	 That\' s fine .
+219  Let me guess .	 We\' re going on a long trip .
+220  Not according to these .	 Well ...
+221  You\' il be back .	 You\' re a MacDonald .
+222  It\' s in your blood .	 Civilisation , here I come !
+223  - Here we go , kids !	 - Just drive !
+224  Look !	 Somebody\' s gonna get lucky .
+225  Out of my face , bitch !	 Slut !
+229  Go ahead , sweetie .	 Go ahead .
+232  - Be serious .	 - I\' m serious !
+233  Better get to steppin \' !	 - Move !
+234  - Punk- ass !	 - You think we can push it ?
+235  - Your Herculean ass can push it .	 Shake it , butt- breath !
+237  Hey !	 Woo- hoo !
+238  Long time no see .	 OK , everybody .
+239  Listen up .	 I just talked to Orwell down at the garage .
+242  What ?	 I\' m stuck here in Redneck River Valley without a ride ?
+244  - Someone employs her ?	 I happen to be a professional .
+245  - Which street corner ?	 - Hey !
+246  Hey .	 She\' s a ... um ...
+247  - Tarot card reader .	 - Yeah .
+248  In a shopping mall , OK ?	 - What about our showcase ?
+253  So ... just the two of us .	 Save it , ass- wipe .
+254  Get the shit in the barn .	 OK .
+256  Watch .	 - Who da man !
+257  - Bring it on !	 It\' s the sights , man .
+260  Bring your country ass up here .	 There you go .
+261  Step up to the mike , go ahead .	 Woo- hoo- hoo !
+262  Yeah !	 Wow .
+263  That\' s nice .	 I prefer a shotgun myself .
+265  My kind ?	 What do you mean , black people ?
+266  Musicians .	 That\' s what I thought .
+267  - Feels good , don\' t it ?	 - Yeah .
+269  Just what I said this farm needs .	 A little new blood .
+270  Ergh !	 Yah !
+271  I like that .	 Hold it .
+272  Aren\' t you forgetting something , Rod ?	 - Like what ?
+273  - Your guitar break ?	 - It\' s right after the third verse .
+274  - Second verse .	 What\' s the difference ?
+276  What\' s the difference ?	 You\' re screwing up the song .
+278  Fuck you , man !	 What are you talking about ?
+279  He\' s right .	 You were behind .
+281  - Nope .	 - See ?
+282  - You figure it out .	 I gotta take a break .
+283  What ?	 So you gotta feed the cows and the chickens ?
+284  Excuse me .	 You were a beat and a quarter behind .
+285  I\' m getting musical notes from Sling Blade ?	 All right .
+287  But ...	 - Do you mind ?
+289  You wanna tell me what\' s going on ?	 You wouldn\' t understand .
+290  Really .	 Now we have a communication problem .
+291  Whatever .	 If you wanna bail on me , that\' s fine .
+293  Ow .	 Fucking shit .
+294  Fuck .	 Fucking cock- sucking son of a fucking ...
+296  Hey .	 Hey !
+298  No !	 Fuck , that\' s what I thought .
+299  Fucking ow !	 What\' s got stuck up his butt ?
+300  This is fucking hilarious .	 This is country humour , huh ?
+301  Look .	 Joke\' s on me , Billy Bob .
+306  - I wouldn\' t be caught dead in them .	 - You motherfucker !
+308  One , two ...	 How the fuck do you like it ?
+309  You like the gun pointed at your face ?	 Fuck you !
+311  - Is that right ?	 - Yes , that\' s right .
+313  Now you\' re talking about my family .	 You know what , man ?
+315  Go ahead , shoot me .	 - You can\' t leave .
+317  Come on , Keith , man !	 We\' re in this together .
+318  We\' re this close !	 Keith !
+319  Well , there goes our record deal .	 Motherfucker !
+320  Bet you think this shit is funny , Billy Bob .	 Inbred motherfucker .
+322  Oh , yeah ?	 Fuck !
+323  Oh , fuck !	 Fuck you !
+324  You any good with those ?	 Shuffle .
+325  Hm .	 You have a strong , unfulfilled desire .
+326  Yeah .	 To get the hell off this farm .
+327  No .	 This is something spiritual .
+328  An ambition .	 The band ?
+329  Me ?	 Hm .
+330  The Ten of Swords .	 So let me get this straight .
+332  Cow shit .	 Are you sure the Aztecs even had cows ?
+334  Are you crazy ?	 No , man .
+336  The Lovers .	 Not lately .
+338  The Devil .	 So what is this thing ?
+340  A thresher .	 So what does it do ?
+341  It threshes .	 Look at these blades .
+342  Go ahead , feel for yourself .	 You\' re full of shit .
+343  - Fuck !	 - Fuck .
+344  - You boys all right ?	 - What the hell are you doing ?
+346  - You could have killed us .	 - Didn\' t see you there .
+347  God damn it , what is that smell ?	 Smells like , um ...
+348  Manure .	 Come on , let\' s get back to the house .
+349  Asshole .	 Gene .
+350  Jeremiah .	 Missed you at church this morning .
+353  - Sounds familiar .	 - Book of Jeremiah .
+354  - You here on official business ?	 - Sure am .
+356  Take a look .	 Maybe you seen them before .
+357  Oh , yeah .	 These two .
+359  Never saw \' em before in my life .	 You know kids .
+361  Could be .	 Thought they were only staying the night .
+362  Bus broke down .	 - Where\' s the black fella ?
+363  - He got axed from the band .	 Huh .
+365  Should we be here , dude ?	 Metaphysical question , man .
+369  - You bet , Gene .	 Bring that girl .
+370  Damn , that\' s good !	 Carl ?
+371  - Hey .	 - Hey .
+373  - No kidding .	 - I\' m serious .
+376  Not someone - Mac .	 - Why would he do that ?
+380  You know ?	 Thanks , Carl .
+382  Sorry .	 Damn it , Carl , you\' re taping me again ?
+383  What is with you ?	 You fucking ... oh .
+384  Freak !	 Suzie , wait !
+385  I didn\' t even know it was on .	 Suzie , wait .
+386  Oh , man .	 Note to self - asshole .
+387  An axe !	 Wait a minute .
+388  What\' s that ?	 Do you hear that ?
+389  Hey , Suze !	 - Where have you guys been ?
+390  - Us ?	 We\' ve been moonlighting .
+391  - Moonshining .	 - Harvest moonshining !
+392  - So where\' s Mac ?	 - Who knows ?
+394  Huh ?	 ... and at that point , she went down on me .
+395  - Uh !	 - Shit .
+397  He\' s right .	 Nice guitar break .
+398  He should turn that down .	 Jeremiah\' s gonna kill him .
+399  Wooo !	 Woo !
+400  Hey , Carl , turn the music down !	 Thank you !
+401  I can\' t believe this .	 - What the fuck happened here ?
+402  - Someone had a little party .	 A party ?
+403  Jesus !	 Somebody Jimi- Hendrixed my axe !
+404  - I guess it was Carl .	 - What ?
+405  Carl did this ?	 Last night .
+408  Damn right you are .	 - You gotta tell Mac .
+409  - Why bother ?	 Come to pick out a plot for yourself ?
+411  - Hell , he\' s your granddaddy .	 You know what he did .
+414  - It was chicken blood on the crops .	 - Chicken blood ?
+417  Harvest should be pretty good soon .	 Wait a second .
+418  Carl ?	 Oh , my God !
+421  What do you wanna know ?	 - What you\' ve been avoiding .
+422  - Avoiding ?	 I keep hearing he killed people .
+423  I know what people say .	 Rumours .
+424  Thick as buttermilk round these parts .	 You should know that .
+426  Whoa !	 Can you hand me that flashlight ?
+427  Bad vibes .	 Suzie !
+428  Suze ?	 Suze ?
+429  This is fucked !	 They\' re dead .
+430  What\' s going on ?	 That basement hasn\' t been used in years .
+432  Sheriff ?	 We don\' t need a Sunday school lesson .
+433  We need to get out of here !	 - Calm down .
+434  - We all know what\' s going on .	 It\' s him .
+435  Case closed .	 Whoa .
+437  - Killed them ?	 Bled them like sheep .
+439  Huh ?	 It\' s like Jesse said .
+443  Nobody\' s here , let\' s go .	 Oh , my God .
+444  It\' s Keith\' s .	 It gets worse .
+446  - Looks like Billy Bob\' s been busy .	 Dude !
+447  Dude , give it up .	 Somebody cut the wires .
+449  After you .	 Oh , my God .
+450  Oh , my God .	 Jeremiah .
+451  - What the hell is that ?	 - Run !
+452  Get back to the barn .	 Run !
+453  Fuck you !	 No !
+454  Sh ... sh ...	 Hey .
+455  Hey !	 Hey , stop !
+456  Stop your fucking van !	 Stop !
+457  Stop !	 - You\' re one of those musicians !
+460  - Candy , come on !	 Get in !
+461  - I\' m Orwell .	 - Take us to the sheriff , please !
+462  Let\' s go !	 Please !
+463  Come on !	 OK , I\' m going .
+464  Are you OK ?	 What happened ?
+466  He was all tied up .	 - I think I killed him .
+467  - What ?	 Who ?
+468  - Billy Bob ...	 A scarecrow !
+469  - What scarecrow ?	 The scarecrow ...
+470  Come on .	 What the hell ... ?
+471  Oh , Jesus .	 Jeremiah .
+473  I\' m not going anywhere without you .	 You see ?
+475  Daddy ?	 Oh , my God .
+476  Jethro .	 The trap door , he escaped the fire .
+477  - It\' s time to make amends .	 - Amends ?
+478  Think , boy .	 You were only seven years old .
+479  Remember .	 You were right there .
+480  The barn ?	 Don\' t fight it .
+481  That\' s right !	 Don\' t fight it .
+482  Come on , boy !	 I remember , how ...
+484  It\' s all right , boy , he forgives you .	 Take it .
+485  If you don\' t do it , he will .	 Mac ?
+487  Actually ...	 I was just yanking your chain !
+488  Let\' s go !	 Let\' s go !
+490  Never .	 I\' d give anything to be in a rock band .
+491  - Really ?	 - Yeah .
+493  - Oh , yeah .	 Sure .
+494  OK .	 I love you .
+496  - Four weeks .	 And the rest is history .
+498  - We gotta go .	 So , thank you .
+499  - Thanks , guys !	 Hello ?
+500  Can I help you ?	 Hello ?
+501  Hello ?	 Well , Daddy , it\' s harvest time .
+
+1  Yeah ?	 Yeah .
+2  I\' II be right down .	 Dr. Onaman .
+3  CaIling Dr. Onaman .	 Dr. Benway .
+4  CaIling Dr. Benway .	 Cops puIled him off the beach twenty minutes ago .
+7  His clothes were blood- soaked .	 Cleaned him up .
+8  Found a couple of Iacerations --	 Is that French ?
+12  Just go find someone who speaks French .	 Maybe a priest .
+13  He\' s probably Catholic .	 WeIl , what happened to you ?
+14  We stopped him going across the park by the Palisades .	 Get back !
+15  Get back down there !	 Stop it .
+16  He\' II tear his wrists .	 Do me a favor and wait outside .
+19  What happened to you ?	 What happened ?
+20  It\' s OK .	 It\' s OK .
+21  Are you aII right ?	 Look out .
+22  Coming through .	 Anyone else ?
+23  CaII for Dr. Rodriguez right away !	 Be careful .
+24  Be careful .	 Gently , please .
+25  Gently .	 I guess he got me .
+26  Jesus Christ , he\' s dead .	 Makes tonight Iook Iike nursery school .
+32  You know what I do miss ?	 Trees .
+35  Just think of it as extended parking for the beach .	 What ?
+36  Hold on .	 Just a couple more , we\' II be through .
+38  There we go .	 - Do you want it dressed ?
+39  - Leave it uncovered .	 How Iong have you been on duty ?
+40  Thirty- two hours .	 Four more to go .
+46  - Good night , Doctor .	 - Go .
+47  - Good night .	 Thanks .
+48  - Good night .	 I\' II catch you Iater .
+49  What\' d he say , anyway ?	 Who ?
+50  The guy who jumped you .	 What\' d he say ?
+51  Nothing .	 That\' s a pity .
+55  I thought it was funny , too .	 No sense of humor .
+57  No kidding .	 Honest .
+58  What\' d you do ?	 Got the heII out of there .
+60  What did you do at Radcliffe , major in sailors ?	 I wish .
+65  Jesus .	 What kind of people did he study ?
+69  - Walk in backwards .	 - I tried that .
+72  Eileen , are you OK ?	 Oh , sure .
+74  Shit .	 They are not there .
+75  They are ...	 Sounds Iike a place .
+76  Why ?	 Walking right now is the best thing for you .
+78  Do you want me to order a repeat EEG for her ?	 No .
+79  The carpet\' s fine .	 I Iike the color .
+80  What ?	 The old carpet was yeIlow , but the owners didn\' t --
+81  Doctor , I think we skipped ...	 Doctor ?
+87  Nothing so dramatic .	 My work is cultural .
+88  At Ieast it\' s warm , eh ?	 I ...
+90  Yes , I\' m afraid that is so .	 Listen to him .
+92  I\' m fine .	 I\' m fine !
+93  Leave me alone !	 I\' m fine !
+94  Stop it !	 I\' m fine .
+95  Just fine .	 What\' s he gotten into ?
+97  Curtain rod .	 Curtain rod .
+98  Curtain rod .	 I forget English faster than I Iearn .
+99  It wiII come .	 TeII me .
+100  Which one do you Iike best ?	 This one ?
+101  On you or the Iiving room ?	 For the Iiving room , this .
+103  Johnny ?	 You are not reaIly bored , are you ?
+106  I am going to eat hamburger commes Ies Americains .	 Mr. America .
+108  Give me that photograph !	 Niki !
+109  Come here !	 Give me the photograph .
+110  Niki .	 Come , come .
+114  I have given you a hard Iife ?	 No more .
+115  No more .	 We wiII be unpacking untiI October !
+117  We have a new house .	 We should pretend we are just married .
+121  It\' s not necessary .	 I wiII go .
+122  My Iove .	 I\' m going .
+123  I\' m going .	 What are you doing ?
+124  We\' ve got a hemorrhage here .	 Niki , go upstairs .
+125  Upstairs .	 Niki , go , now , please .
+127  " returned to find that Iife seeping into ... "	 What ?
+129  You\' re right .	 It\' s worse .
+132  Come on .	 What\' s going on ?
+133  It\' s fakacht .	 We\' re getting screwy numbers .
+135  Come on .	 The first time was faint and only showed autonomic functions .
+136  Then we started getting corticaI propagation !	 I don\' t understand .
+138  Get Mrs. Lachman or whatever her name is --	 Active .
+139  Hearing .	 Seeing .
+141  And ?	 The crazy who jumped her the other night was a Frenchman .
+142  So ?	 She had a run- in with a crazy .
+144  Listen to me .	 I\' II teII you what we\' II do .
+146  There are some very strange people in this world .	 What is that ?
+147  It is nothing .	 It is nothing at aIl .
+148  I promise .	 Hey , come now .
+149  Come , come , come .	 Don\' t worry about it aIl .
+151  What should I do ?	 CaII the police and say ...
+155  I don\' t know .	 I don\' t know .
+156  Come .	 Let\' s go to bed , huh ?
+159  Is it October so soon ?	 Nearly November .
+160  The Ieaves are faIling ...	 Yes ... every Iittle ...
+161  And the cold winds blow ...	 Are blowing .
+162  And soon great shafts of ice wiIl ...	 I Iike ice .
+165  Get me one , too .	 Of course .
+166  I\' II be right back .	 What kind of people ?
+167  I\' m going out .	 I can see that .
+169  What are you after ?	 Nothing .
+170  Something .	 I don\' t know .
+171  I\' m not sure .	 We\' II talk Iater , OK ?
+172  I reaIly won\' t be Iong .	 I promise .
+173  Jean Charles !	 Keep the door Iocked .
+175  I only Ieft forty fucking minutes ago !	 Doctor , please .
+178  Hey , stop !	 Stop !
+179  Stop , stop , stop !	 I know about them .
+181  WiII you stop ?	 WiII you stop ?
+185  Why do you teII me this ?	 WiII you Iisten ?
+186  They\' re nomads .	 What ?
+187  Nomads , yes .	 Like aII of them .
+188  Like every place we\' ve Iived for the Iast ten years .	 Here ?
+189  Here , now .	 In this city .
+194  There was no reason .	 Forgive me .
+195  Please , forgive me .	 Forgive me .
+196  I\' m very tired .	 Very tired .
+197  None of this may mean anything .	 None of it at aIl .
+199  Outside any structure .	 They do not participate .
+202  You are a crazy man .	 You know that ?
+203  I was so worried about you .	 You Iook awful .
+204  Awful .	 Why do you push yourself so hard ?
+206  Awful .	 Phone\' s ringing .
+208  She is a doctor .	 Yeah , heIlo ?
+210  Don\' t hang up !	 Hang on !
+211  Yeah , heIlo ?	 Hi , Eileen , I got the stuff --
+213  Eileen isn\' t in at the moment .	 Can I take a message ?
+214  Sorry , she caIled me --	 You spoke to her ?
+216  Have you got a pencil ?	 Yeah , go ahead .
+218  There was , however --	 Eileen asked you about this ?
+221  Have Eileen caII me --	 No !
+222  Where are you ?	 Are you here ?
+223  Pardon me ?	 Where are you ?
+224  Are you out here ?	 I\' m in Boston .
+225  Why ?	 Just teII me .
+226  I\' II get the gist for her .	 Do you mind ?
+227  No .	 It\' s apparently some sort of nomad myth .
+231  - And the Inuat ...	 - Another one over here .
+233  Nothing .	 I\' m sorry .
+234  And the Inuat were ?	 They were supposedly hostile spirits .
+239  " approached strangers on the ice . "	 HeIlo ?
+242  I\' II teII her .	 They\' re not there .
+243  They\' re Inuat .	 - Charlie say anything , did she ?
+244  - No .	 Crap .
+245  Crap .	 It\' s crap .
+246  Double crap .	 Middle of the night Iistening to buIlshit nonsense .
+247  It\' s not my own Iife .	 Honest to God .
+248  Jesus .	 Shit .
+252  There have been few of those of Iate .	 Forgive me , please .
+253  Forgive me for being so rude .	 I did not think that --
+259  You may caII me Bertril .	 How do you do ?
+260  Mr. Pommier , yes .	 Won\' t you have tea ?
+261  I haven\' t any Iemon .	 I trust that\' s aII right .
+265  There are places with pasts , Pommier .	 Places with secrets .
+266  Things ... coIlect .	 You just Iooked too closely .
+269  They know about you .	 Go away , Pommier .
+270  Leave your house and change your job .	 Go and hide yourself .
+273  They\' re not real .	 They can\' t do anything .
+274  They brought you here , Pommier .	 What was this place ?
+275  What happened here ?	 You must Ieave now .
+276  Don\' t pursue this .	 It won\' t end with you .
+278  I\' m dreaming .	 Just dreaming .
+279  I\' m just dreaming .	 Very bad , very bad .
+280  Tired ... just tired .	 What are you Iooking at ?
+281  You come up here Iate Iast night .	 You seemed very iIl .
+283  I\' m ... embarrassed .	 You sleep on the couch .
+285  I know your name , Niki .	 I know !
+286  I\' ve seen !	 No , rest calm .
+289  Don\' t Ieave me !	 It goes forever .
+290  No !	 I don\' t want to go !
+291  Please stay away from me .	 Please !
+292  Please !	 Go where ?
+294  I couldn\' t understand !	 He screamed --
+297  Who is doing that ?	 He thinks they\' re Inuat .
+298  That is what he meant .	 How do you know this ?
+299  I was so frightened Iast night .	 You were shaking .
+302  AII of us .	 We have wandered so very far from home .
+303  Please , stop .	 It is not important .
+304  I was tired , eh ?	 I was tired , very tired .
+306  Our bourgeois Iife in this civilized place .	 Talk of things we planned .
+309  Please .	 Please , anything .
+310  Was there anything in his family ?	 Was he taking drugs ?
+311  Drinking ?	 Was there any radicaI change in his diet ?
+312  Hamburgers wrapped in plastic .	 Did my husband Iose his sanity ?
+313  I think so .	 He\' s haIlucinating .
+314  Was haIlucinating .	 HeIlo ?
+315  Thank God , you are there .	 Are you aII right ?
+316  I think so .	 We\' ve been going out of our minds here .
+319  A friend back east .	 What was that stuff about ?
+320  I\' m not sure .	 It doesn\' t matter now anyway .
+321  We\' II talk .	 It scared the fuck out of me .
+322  I\' ve got the address .	 I\' II come pick you up .
+323  What ?	 I said I\' II come pick you up .
+324  Cassie , I\' m not sure you should .	 BuIlshit .
+326  You don\' t know ?	 You were on the tower .
+328  What did you do then ?	 We Ieft that place very fast .
+332  The other one was there .	 He was running .
+334  Niki , what if he wasn\' t --	 Wasn\' t what ?
+335  What if he wasn\' t insane ?	 No , thanks .
+336  I don\' t want any .	 I mean it .
+337  I don\' t want any .	 Go bug somebody else .
+340  Now !	 We\' ve got to get out of here now .
+342  Either of us .	 You know where everything is .
+343  You can\' t come back here .	 Ever .
+344  Ever .	 But we\' ve got to get out of here now .
+345  Now .	 Leave it !
+346  Go !	 Who are these people ?
+347  Who are these people ?	 Who are they ?
+348  Oh , God .	 You see them , too .
+349  Operator , I need the police .	 The address is --
+350  Up this way !	 Help me !
+351  Help me !	 You saw what happened to Jean Charles , no ?
+352  TeII me .	 Are you sure ?
+353  But they\' II be back .	 Come on .
+354  Let go , Iet go .	 TeII me .
+355  Don\' t stop .	 No matter what you see , don\' t stop .
+356  Don\' t stop !
+4  Breakfast of champions .	 When was the last time you slept ?
+8  - What up , Jake ?	 - Darius .
+9  What`s up ?	 So you playing ball next year ?
+10  - I don`t know , man .	 - Get with it .
+13  - Easy .	 - What`s he got there , Jake ?
+14  - Nothing , man .	 - Bullshit .
+15  Let it go .	 - Just keep your dog on a leash .
+17  Chill .	 It only told me to scare him . ``lt`` ?
+18  What is ``it`` ?	 Just give me back the piece .
+19  No , man , no .	 Are you crazy ?
+21  Later .	 Happy birthday .
+24  Campbell termed this ennobled path --	 - Just trying to be helpful .
+26  It is my birthday .	 Works for me .
+29  Mr. Gray , am I interrupting a celebration ?	 Sorry , Prof. Hartney .
+31  All right .	 That`s enough for today .
+32  Thank you .	 - So we drinking this tonight ?
+33  - We`il be doing a lot more than that .	 Dakota .
+34  ln my office in 30 minutes .	 Get me out of this town .
+35  You must be Jake .	 Yeah .
+37  Okay .	 What`s the problem ?
+38  It just stopped working .	 They do that .
+39  Okay , let`s see .	 - That`s what it looks like in there .
+41  Okay .	 You`ve got some red wax .
+42  Wax .	 My tarot cards .
+43  - Sorry ?	 - I burn candles when I read tarot , so ....
+45  Okay .	 It works .
+46  - What do I owe you ?	 - No charge .
+47  - Really ?	 - Yeah .
+48  That`s so nice .	 Thank you .
+49  Jake .	 You could have got $75 for that job .
+50  - It was a piece of wax .	 - Yeah ?
+51  Well , l`m docking your salary .	 What the hell for ?
+56  How are things going at the mill ?	 Still got a job .
+58  You going out tonight with Conrad and Dakota ?	 l`m legal .
+60  What does that mean ?	 Don`t get wet .
+61  Ludes ?	 X ?
+62  What`s your poison , lover boy ?	 - Are you peaking or crying ?
+63  - l`ve had better days , Jake .	 - So what happened ?
+64  - Hartney hit on me again .	 - What did he say ?
+65  - Fuck or fail .	 That`s got a nice ring to it .
+67  Why don`t you report him ?	 He does this all the time .
+68  - Dean Glick won`t do anything .	 - Why not ?
+69  l`il give you one guess .	 Come on , huh ?
+70  Shit .	 Fuck . l`il fucking nail both of you , man ?
+71  - I didn`t call for back up .	 - You`re welcome .
+73  Her nose was up my skirt .	 Man !
+74  Jake , what`s our zip code ?	 98133 .
+75  Had you heard that one ?	 Personally , I found it depressing .
+76  That`s just because you weren`t there .	 Exactly .
+77  What year were you born ?	 Same as you , dumb- ass .
+78  So what`s your weirdest family holiday ?	 Fuck that .
+79  We`il be here all night .	 What was your weirdest family holiday ?
+81  They were all inside watching football , Dallas- Tampa game .	 Dallas lost .
+88  ``Welcome to The Pathway . ``	 The Pathway .
+89  l`ve never played this before .	 Dakota , it`s a secret .
+93  - You already have .	 Happy birthday .
+95  Dude , you`il never be President .	 Turn this off .
+97  Abort .	 Fuck !
+98  God , l`m so drunk .	 I need another drink .
+99  Oh , body shots .	 - l`il be down in a minute .
+100  - Enjoy .	 What are you doing ?
+103  Yeah , right .	 I was 10 minutes late .
+105  - So do l .	 - Oh , I don`t know .
+107  I need the keys .	 You`ve got to be kidding me .
+108  You know , you owe me two weeks pay .	 Sue me .
+109  Son of a ....	 What ?
+113  Happy birthday .	 This is the Pathway ?
+115  - My boss .	 - What would you Iike to do to him ?
+116  - Kill him .	 You`d only be doing him a favor .
+118  Don`t expect a tip .	 So you been thinking about me ?
+119  Only between my dance classes .	 - How are you doing ?
+120  - l`m good .	 - Yeah ?
+121  - Yeah .	 How`s your job going ?
+122  lt`s going great .	 You and your dad getting along ?
+123  Yeah , like family .	 That bad , huh ?
+124  Maybe I should move back home .	 This place is breaking us .
+125  No .	 There`d be no one to look after you all day .
+126  Dad and I are fine .	 You were always such a terrible liar .
+127  Where`s your blanket ?	 l`m going to get you a blanket .
+128  Hang on .	 Excuse me , nurse .
+129  Can we get a blanket for my ....	 - Marisol .
+130  - Jake .	 What are you doing here ?
+132  Jake saved my life .	 It was just a circuit board .
+133  So you`re the one that brings Kathy the orchids ?	 Yeah .
+135  - You`re welcome .	 - Small world , huh ?
+136  Yeah .	 I like it that way , though .
+137  Behave , Mom .	 Why should I start now ?
+138  There he is .	 That`s the kid that robbed me .
+139  - Arrest him .	 - Take it easy .
+140  No .	 I fired this kid yesterday .
+143  - No .	 Okay .
+144  All right .	 You know what ?
+147  That can`t be me .	 You doctored the tape .
+148  You little prick .	 Don`t you see ?
+149  He`s goddamn smart .	 God , you screwed me , Gray !
+151  I don`t know .	 That`s why l`m trying to hack into the site .
+152  Well , whoever they are , I wouldn`t piss them off .	 Yeah .
+153  Shit .	 Since when are you into voodoo ?
+157  Details .	 Should we light a candle or something ?
+160  When did you start playing the Pathway ?	 Like you care .
+162  See you on campus .	 Hello .
+163  Feeling distracted ?	 Beats watching TV .
+164  Are you ready for another test ?	 I thought that was Dakota`s test .
+167  Dinner`s ready .	 Trying to break my hand ?
+168  What`s the matter , you pull something ?	 Just throw the goddamn ball .
+169  Let me see .	 - Darius do that ?
+172  Why don`t you stop already ?	 Okay .
+174  Yeah , I think we`re both losing it .	 Listen to this shit .
+176  I turn around .	 There`s a big creature staring at me .
+177  A creature .	 Half man , half woman .
+179  Every goddamn day .	 Great .
+180  - l`il take it easy on you .	 - Right .
+181  - Hello .	 - Lakey .
+183  - Nice , man .	 Why didn`t you give me a shout ?
+185  ls something wrong ?	 I don`t know , man . l`m spent .
+186  You know ?	 All right , dude .
+187  Be careful .	 Why don`t we get breakfast in the morning ?
+188  Okay .	 I`II caII you in the morning .
+189  - Hey , Jake .	 - Yeah .
+190  Fuck you .	 Dude , what the fuck do you want now ?
+192  What the fuck !	 Connie .
+194  Connie , wake up .	 Uncle Ross .
+195  He didn`t sound good .	 I should have come over .
+196  You could have wound up dead , too .	 Conrad wasn`t a psychopath .
+201  - That`s impossible .	 - Why is that ?
+202  - Because I threw that gun into Cove Lake .	 - You what ?
+204  How would Conrad have gotten the gun back ?	 He couldn`t have .
+208  You could have brought the gun to me .	 Are you okay ?
+210  Not here .	 Meet me in front in five minutes .
+211  Okay ?	 Okay .
+216  Looks like you like to travel .	 Yeah .
+217  I like collecting things .	 - How did you end up here ?
+218  - A man .	 Sorry , I didn`t mean to pry .
+219  No , it`s okay .	 l`m just enjoying this one too much .
+220  So how about you ?	 Are you seeing anybody ?
+223  That never happens .	 What timing .
+225  Okay .	 Well , you were right .
+226  The day did get better .	 l`m sorry about your friend .
+228  Bye , Jake .	 Bye .
+234  Wait a minute .	 Wait .
+237  Sacrificed ?	 You sacrificed ?
+239  My beautiful wife .	 What does that mean ?
+244  Shame on you .	 Jake ?
+247  Don`t worry about it .	 - So why didn`t you call me back ?
+248  - I was hanging out with a friend .	 Who is she ?
+249  Her name is Marisol .	 - Sounds exotic .
+250  - She`s different .	 - l`m super late .
+254  Yeah , maybe .	 Are you still playing ?
+256  Do me a favor .	 - Anything .
+257  - Stop .	 Sure .
+258  Come by the Tomahawk tonight .	 Dinner`s on me .
+259  And bring your friend .	 You sure you want company tonight ?
+260  - No , but I like being with you .	 - Good .
+261  Okay , now l`m jealous .	 - Marisol , this is Dakota .
+262  - Nice to meet you .	 - God , Marisol .
+263  That`s such a beautiful name .	 - Thank you .
+266  lt`s okay .	 We`re just going to do take- out .
+268  - No .	 I got a surprise for you .
+269  Now this would be the part where I get ill .	 Sorry .
+273  Asshole !	 - Tomahawk .
+274  - Even Hartney knows you are weak .	 Every man does .
+276  Who wants a girI Iike that ?	 I know .
+277  It wasn`t your fault .	 Daddy was a monster .
+280  - Is that what you want ?	 - Fuck you .
+281  Fuck all of you !	 That`s my girl .
+283  Yes .	 Don`t be afraid .
+286  There`s a higher power looking out for you .	 ls she okay ?
+287  - l`il call her later .	 We are late .
+288  - Late for what ?	 lt`s so worth the pain .
+289  I promise .	 I need some more medicine , nurse .
+290  - Ready ?	 - Yeah .
+291  One , two , three , go .	 I hope you can fight .
+293  Okay , now you`re breaking my heart .	 Sorry .
+294  Quit smoking yesterday .	 Great .
+295  Jake .	 What have you and your friends gotten into ?
+296  Nothing .	 First Conrad , now Dakota kills your professor and mutilates herself .
+297  This is no coincidence .	 You could be next .
+299  Make sure he gets some sleep ?	 Listen to me .
+302  Nine points ?	 Didn`t hear you drive in .
+303  So , how are you holding up ?	 - Fine .
+304  - Yeah ?	 What`s in the ground ?
+306  Returns the animal`s soul to the Earth .	 Well , come on in .
+310  I like it here .	 lt`s peaceful .
+313  It might do you some good .	 Sheriff North .
+314  What is it ?	 Something`s wrong .
+315  l`m sorry , I think we ought to go .	 Okay .
+316  Jake , talk to me .	 Shit .
+322  He`s not here .	 Jake , what is it ?
+326  Maybe .	 Here in Mark 9 : 25 :
+328  Thanks .	 So when did you stop worshipping Satan ?
+329  Ten years ago . l`m a Christian now .	 lt`s more forgiving .
+330  Why`d you even start ?	 Some folks want what God ain`t giving them :
+331  Money .	 Power .
+332  Me ?	 I wanted to get laid .
+334  People get naked .	 Then they sacrifice something .
+335  A cat or a dog .	 Satan rewards you for killing a dog ?
+339  Walt , please .	 Yeah , I know a guy .
+340  Just do me a favor .	 Don`t tell him I sent you .
+341  Coming .	 Sammy .
+343  Yeah .	 I get $50 an hour for consultations .
+344  Right .	 I should charge more .
+346  I ever sell books to you before ?	 No .
+347  You say it`s called the ``Pathway`` ?	 Yes .
+353  in my head .	 So have l .
+356  Why did you stop ?	 I was going to be a father .
+357  Was ?	 Anne Kilton was a student of mine before we were married .
+359  A human sacrifice .	 I refused .
+363  Aidan Kater had sacrificed my wife and unborn child .	 l`m sorry .
+364  What did the police say ?	 The police were very helpful .
+368  She seduces them .	 The Devil`s a woman ?
+369  I don`t know .	 It can be whatever it needs to be .
+372  You didn`t even know them !	 l`m not saying it`s your fault .
+373  I think that you`re angry because --	 Yes , l`m angry .
+374  My friends are dead ! l`m angry !	 But l`m not crazy .
+376  What are you gonna do ?	 Throw holy water on him ?
+379  The bitch was in my basement !	 Okay .
+382  l`m sorry .	 Fucking shit .
+384  He`s gone to hell .	 Where you going with those , Jake ?
+385  To your mother and father ?	 You can`t do that , man .
+386  You`il ruin everything .	 Jake .
+387  I didn`t have a choice .	 Neither of us do .
+388  Are we in hell ?	 No .
+389  But hell ain`t so bad .	 You`il see .
+392  l`m nothing like you .	 I don`t kill people .
+395  They failed .	 You passed .
+397  You used the Pathway to find me ?	 Why ?
+399  By who ?	 Those people you call your parents .
+402  My real mother ?	 Anne Kilton .
+403  Bullshit .	 Anne never had a child .
+405  You belong to us .	 You always have .
+408  Why ?	 Don`t be afraid .
+409  She`il explain everything .	 Where is she ?
+410  I know who you are now .	 Why ?
+411  No !	 There`s a higher power looking out for you .
+414  That isn`t your blood .	 Drink this .
+416  l`il be whatever you need me to be .	 You`re a monster .
+418  But maybe they`re right .	 Maybe there is no Pathway .
+420  Please .	 Help me .
+
+5  Together forever .	 - I\' m so cold .
+6  - Me too .	 Ginger , I think we\' ve lost our way .
+7  We haven\' t lost anything , Brigitte .	 It\' s lost us .
+8  Easy .	 Shh .
+9  Come on .	 Come on !
+10  Fine then .	 We\' il all walk .
+11  Come on .	 Let\' s go .
+12  Hello ?	 Ginger .
+13  Are you all right ?	 What happened here ?
+15  Sisters .	 They were hers and her sister\' s .
+16  Thank you .	 - Say " thank you , " Ginger .
+18  Whoa , whoa , whoa .	 Easy , easy , easy !
+19  - What\' s wrong with him ?	 - It\' s all right .
+20  Ginger !	 No , come back !
+21  Come back !	 Come back !
+22  Brigitte !	 - Get it off me !
+24  Don\' t leave me !	 Look at me .
+26  One , two ...	 - three ...
+28  50 .	 Ginger !
+29  55 , 56 ...	 Help !
+30  Please , somebody !	 Help us !
+31  Brigitte !	 Ginger .
+32  98 , 99 ...	 I\' m not alone !
+33  I\' m counting !	 100 .
+36  Son ...	 Welcome to civilization .
+39  Do we ?	 You bloody idiot .
+42  Mr. Rowlands .	 - The dark one\' s hurt .
+43  - Show me .	 She\' s been bit .
+44  How\' d you come by that wound ?	 In the woods .
+48  - Mark me , Wallace .	 - You\' ve been marked .
+49  Let\' s let Doc Murphy see to it .	 - Our parents drowned ?
+54  My name is Wallace Rowlands .	 I am Chief Factor at Fort Bailey .
+56  Do you feel that ?	 Good .
+57  Be thankful .	 It means you\' re alive .
+59  Is it medicinal ?	 - Not in the least .
+60  - Ginger ?	 I\' m right here .
+62  No , it\' s not .	 Your fort\' s nearly abandoned .
+68  Oh ?	 Hmm .
+69  Have war parties been raiding you ?	 Is that what\' s happened here ?
+73  Except on foot .	 For a few thousand miles .
+74  This was Geoffrey\' s room .	 Wallace\' s son .
+75  - Where is he ?	 - He died ... a few weeks ago .
+76  These are for you .	 I hope they fit all right .
+77  They were Wallace\' s wife\' s .	 She was a beautiful Indian girl .
+78  She died too .	 It was quite tragic .
+79  Here\' s the key .	 I\' il see you at dinner then .
+80  Hmm .	 What a lovely shade of dead .
+82  We\' ve slept there before .	 Together forever ?
+83  Together forever .	 Ladies .
+85  Chief Factor , the blessing .	 Yes , of course .
+88  The faithful shall kneel on bleeding shins ...	 Amen .
+89  Amen .	 Scripture has twisted that man deadly .
+90  And you ... you watch it .	 He\' s fixing on you .
+92  Supplies will get through .	 We just to have hold out until then .
+95  Seven footer , good 300 Ibs .	 On him ...
+97  What keeps him here ?	 Something he\' s not telling .
+98  No , you\' re waiting for something .	 What is it ?
+100  Easy , easy !	 Easy .
+101  Put it away ...	 I am my own .
+104  We have to abandon this place .	 The company will understand .
+105  They\' re just wooden walls .	 Wooden walls ?
+109  Good Christian women need fear nothing .	 - We\' re not afraid .
+111  - What is that ?	 - Demons .
+114  Ginger , come look at this .	 These toys must be Geoffrey\' s .
+115  Who\' s there ?	 Hello ?
+116  Hello ?	 Come over here .
+117  I\' m not going to hurt you .	 Wake up .
+118  Brigitte , wake up .	 Get dressed .
+119  We\' re leaving .	 I was dreaming ...
+120  Mother and Father were there .	 - Mother and Father are dead .
+121  - You\' re bleeding .	 - What have you done ?
+122  - What have I done ?	 Something bit me !
+123  Something bit you ?	 Yes .
+125  It\' s loose in the house .	 Brigitte , please get up .
+127  Stop .	 Did you hear that ?
+128  Help me .	 Ah , come here .
+130  Come on .	 Come on .
+131  Don\' t move .	 Step back .
+132  Do it .	 She won\' t .
+133  I won\' t ?	 No , you won\' t .
+135  Get down here !	 They\' re on top of us !
+136  - We\' re coming !	 - Help me !
+137  Owen !	 Tabarnac !
+138  Oliver !	 Don\' t let me go , Finn !
+139  Don\' t let me go !	 No !
+140  - Don\' t let them get me !	 - Let him go !
+141  Get the beam , Finn !	 This way !
+142  - Seamus !	 - Pull !
+143  Come on !	 Fuck .
+144  Shh !	 Shh !
+145  There\' s one inside .	 Shh !
+146  It ripped through the wall .	 This way .
+147  Go .	 Get inside .
+148  Quickly !	 En nomini patri , et fili , et spiritus sancti ...
+149  Burn in hell .	 It\' s in here with us .
+150  Be quiet .	 Run .
+151  Run !	 Close the door !
+152  Close the door !	 Break the window , Brigitte !
+153  Go away !	 Help up here !
+154  Somebody help us !	 You bastard .
+157  Monsieur Rowlands !	 We need more men on the walls .
+158  - How many are there ?	 - They\' re everywhere .
+159  Up the tower ... shoot whatever you see .	 Reverend , be useful !
+160  Stand a post .	 - He tried to kill us .
+161  - You two , to your room !	 It has begun .
+162  The Black and the Red .	 What is it ?
+163  Oh shit .	 Oh God .
+164  I\' m burning up .	 Just leave it .
+165  It\' s fine .	 I\' ve bled before .
+166  Not without being hit .	 What are they , Ginger ?
+167  Animals ?	 That was no animal .
+168  Could they really be ...	 What , demons come for us sinners ?
+169  It looks septic .	 They\' ve got the place surrounded .
+170  God help us !	 Brigitte ?
+171  Brigitte ?	 Hmm .
+173  Thank you .	 One sister kills the other ...
+174  Brigitte ?	 Brigitte !
+175  Oh God .	 We need to see Dr. Murphy .
+176  The air is bloody .	 Kill the boy .
+177  Mr. Murphy ?	 We need you to ...
+178  - What\' s the matter , Finn ?	 - Uh , nothing .
+179  I\' m fine .	 Shh !
+180  It\' s just these leeches .	 They can\' t be trusted .
+181  Go on .	 Answer the girl , Finn .
+182  Tell her what you\' re doing .	 Me ?
+184  No .	 No , I didn\' t .
+187  I know , Finn .	 You\' re a real good boy .
+188  But you gotta listen to me now .	 Put the knife down .
+189  Now , get yourself a leech .	 Do it , boy .
+190  Now put it on you .	 Do it , Finn .
+191  No , not on your arm .	 On your chest .
+192  Please , Murphy .	 I just wanna go home .
+193  Yeah , me too , son .	 We\' re almost there .
+195  What the hell\' s going on , Murph ?	 Finn got bit .
+196  I put him down .	 We can\' t keep doing this !
+197  He was no damn sick dog .	 He was bit .
+200  No , you\' re wrong .	 - It\' s not my brother\' s .
+202  It\' s them turned .	 No , Tab !
+203  It\' s him .	 Who is Jean- Pierre ?
+206  We need to know .	 You need to know .
+207  Check the eye .	 Angels and ministers of grace defend us .
+208  Glass .	 It\' s him .
+209  They\' re all dead .	 Or turned into these sieging monsters .
+215  We move at night .	 We rest during the day .
+217  You don\' t have to come .	 I\' m sick of your bile !
+219  Seamus !	 None of it makes any difference .
+221  - Come on , Ginger .	 - This is the fight !
+223  I\' ve lost my son to it .	 Let them come .
+224  He\' s lying to them .	 His son\' s not dead .
+226  He\' s turning into one of those creatures .	 - So am I.
+227  - No ...	 I can smell their blood .
+228  Yours too .	 Be quiet .
+229  Stop , just stop .	 - Shh .
+232  It gave me bad dreams ...	 But my brother said ,
+239  Come on , boy .	 I can\' t find my mother .
+240  I\' ve looked and looked .	 I miss mine too .
+241  It itches .	 Geoffrey , wait .
+242  Your end .	 Lift .
+243  Okay .	 Let me look at it .
+244  How is it ?	 It\' s fine .
+246  There\' s nothing you can do .	 Brigitte , where\' s your sister ?
+247  Resting .	 The excitement ... she can sometimes be a little ... frail .
+248  She\' s all right ?	 She let Geoffrey out .
+250  They\' d kill him .	 What happened to him ?
+251  My wife and he were attacked .	 She was killed .
+252  He had been bitten .	 For a while it seemed he might recover .
+254  Can you imagine what that\' s like ?	 You look after your sister .
+255  Geoffrey ?	 Kill the boy .
+256  That was the boy who bit me .	 I have to kill him ...
+258  Milo ?	 Milo ?
+259  Seamus ?	 Seamus ?
+260  It was just here .	 Jesus Christ .
+262  Hmm ...	 Quiet !
+263  Okay , get her out !	 Get her out of here !
+264  Quiet !	 Oww !
+265  It isn\' t a wolf bite , is it ?	 No ...
+266  Get a good bite , little bitch .	 Good and deep .
+267  Ahh ...	 Oh God !
+268  No !	 Oh God !
+269  Stand away from the girl .	 Now get out .
+270  Mr. Rowlands .	 I\' il get you , boy .
+272  She\' s turning .	 Yes .
+273  Then it\' s too late .	 Is it too late for your son ?
+274  I\' il tell them about Geoffrey .	 I swear it .
+275  They kill my sister , they kill your son .	 Hold her still !
+276  Get a leech .	 - Let her go !
+277  - You heard her .	 Let her go .
+278  - She killed Seamus !	 - Bled out his throat .
+279  She never left the room .	 I swear it !
+280  She never left her sister\' s side .	 - Leech the witch !
+283  My sin is something you can only dream about .	 Leech her .
+286  Is that understood ?	 Get out !
+287  It\' s all right .	 It\' s all right .
+288  Pack your things .	 You\' re making us leave ?
+289  Not you .	 You can stay .
+290  She goes .	 Brigitte , I have to break the curse .
+291  We go ... we go together .	 I have to kill Geoffrey .
+292  I\' m not staying here without you .	 There\' s no other way .
+294  Brigitte , look at me .	 There\' s got to be something .
+296  I\' m turning into something dangerous .	 You know it\' s true .
+297  You heard the old woman .	 You\' re the only thing I have .
+298  Nothing else .	 I will not kill you .
+299  Forever ... nothing else .	 I love you , Brigitte .
+300  No !	 No !
+302  Your father\' s throat\' s out !	 - Let me go !
+304  No !	 Please no !
+305  Get up !	 Get out !
+306  Get the beam .	 Geoffrey ?
+309  Run !	 - Where is she ?
+310  - She\' s gone .	 It\' s too dangerous for you here .
+321  Wallace !	 - Wallace !
+322  - They found the boy .	 - What is that ?
+323  - It\' s Wallace\' s boy .	 He\' s alive .
+324  And he\' s turned .	 Turned ugly .
+325  Wallace come out here .	 Having a little reunion .
+326  Wallace , get out here !	 Wallace !
+327  Good news , Chief .	 Your boy\' s back from the dead .
+329  He\' s not your son anymore .	 Look at him !
+330  You fucked us .	 You haven\' t just killed Murphy .
+331  You killed everyone here .	 - It\' s my concern .
+332  - What about Murphy\' s concern ?	 And Owen\' s ?
+333  And Finn\' s ?	 He killed Seamus .
+335  Son ...	 look at me .
+336  Take him !	 No !
+338  I\' m afraid , Brigitte .	 It\' s over .
+339  Mutiny\' s over .	 - And that one ?
+340  - She\' s leaving .	 We two owe each other nothing .
+341  Say your goodbyes .	 We have to find the old woman .
+344  Keep pulling !	 Therefore the curse is brought upon us .
+345  - I\' m cold .	 - I\' m not .
+346  We have to keep moving .	 Ginger !
+348  Shhh , shh .	 What is it ?
+349  Someone\' s watching us .	 Hello ?
+351  - His cave is up the river .	 - Take us to him .
+352  Can you do that ?	 We\' re very close .
+353  - What do you hear ?	 - They\' re stalking us .
+354  Wendigo .	 - This way , hurry !
+355  - Milo , wait !	 Milo ?
+356  Milo ?	 Ginger ?
+357  Ginger ?	 Brigitte , I couldn\' t help it .
+358  I did it .	 You need to leave me .
+359  - Come on , come on .	 - Brigitte ...
+360  I\' il kill you .	 I\' il kill you .
+361  Come on , Ginger , up !	 There ... the cave .
+362  That\' s the place .	 Shh , it\' s all right .
+363  No , it\' s over .	 It\' s over , we\' re dead .
+364  We\' re dead .	 We\' re not dead , we\' re here .
+365  We\' ve come this far .	 In my mother ...
+366  I heard you coming .	 Tell us how to cure this .
+367  I warned you .	 It\' s too late .
+369  Please help us .	 Tell us what to do .
+373  No , you won\' t .	 She won\' t kill me ,
+374  I know it .	 Snow .
+376  You will see things .	 - Will I see what happens to us ?
+377  - You will see your death .	 But will I find the answer ?
+378  Snow .	 Don\' t do this , Brigitte .
+380  Do not fear death .	 I love you , Brigitte .
+381  Gin- gerr !	 No !
+382  Ginger !	 Ginger ?
+383  What happened ?	 She killed the seer .
+385  Tell me !	 I didn\' t see my death .
+387  It\' s what I saw .	 And what did you see ?
+389  It\' s still her .	 We will be together .
+393  You saw this knife .	 - I know you saw it .
+394  - I killed Ginger with it .	 This is the only way .
+395  You have no choice .	 It is your path .
+397  She will come for you there .	 The prodigal has returned .
+398  Welcome back .	 You bastard !
+402  She\' s coming for me .	 Witch !
+403  Temptress !	 - One , two ...
+406  The other will come .	 Let the bitch in .
+410  Burn her , Wallace , while there\' s still time .	 Burn her !
+413  Forgive me , Father ... for I have sinned .	 48 ...
+414  Have you had enough ?	 Huh ?
+416  Let\' s hear it !	 Come closer .
+417  It\' s a secret .	 Watch her !
+418  68 ...	 She\' s come back for you .
+419  Stay close to the fire .	 98 ...
+420  99 ...	 100 .
+421  Ginger ?	 Behind you !
+422  You know how it must end .	 Together forever .
+423  Ginger !	 I was wrong to leave you , Brigitte .
+424  But you came back .	 Ginger ?
+425  I\' m cold .	 I\' m not .
+
+1  Peter , are you okay ?	 You\' re up early today .
+2  CURSE - GRUDGE	 Hi .
+3  Excuse me .	 Hi , Emma .
+4  It\' s good to see you again .	 Do you remember me ?
+5  It\' s Yoko .	 - Sorry .
+6  Did I wake you ?	 - Bottom drawer .
+7  Thank you .	 - You know me so well .
+8  - Come back to bed .	 I can\' t .
+9  I\' m gonna be late for my architecture midterm .	 Check your watch .
+12  - You sure ?	 Of course .
+13  Why ?	 - It\' s a big deal , you know .
+18  - Where are you going ?	 - Come here .
+19  I wanna show you something .	 It\' s a Buddhist ritual .
+21  They must have lost someone they loved .	 Excuse me .
+22  Come on .	 - Karen ?
+23  - Yes , Alex ?	 - Are you free this afternoon ?
+24  - Just a test to study for .	 Why ?
+25  Your wish has been granted .	 Your first visit alone .
+28  And she has the damn house key .	 What\' s this phrase ?
+32  Don\' t worry , Karen .	 You\' re ready .
+33  Hello ?	 Is anybody here ?
+34  Oh , my God .	 Are you all right ?
+35  Come here .	 Okay , Emma .
+36  My name\' s Karen Davis .	 I\' m from the Care Center .
+37  I\' m substituting for Yoko , just for today .	 Hello ?
+39  They\' re not home yet .	 I don\' t know .
+41  I know .	 I\' m sorry , Alex .
+42  Okay .	 Just get here as soon as you can .
+43  Toshio .	 Matthew and Jennifer aren\' t around .
+44  Leave a message .	 Hey , guys , it\' s Susan .
+45  Matt , are you there ?	 Pick up .
+49  LOOKlNG FOR OCCUPANT Happy Home Sect .	 Ltd .
+50  LOOKlNG FOR OCCUPANT Happy Home Sect .	 Ltd .
+51  Welcome .	 What do you think ?
+52  Your shoes .	 - Even in your own house ?
+53  - Even in your own house .	 It\' s perfect for Mom .
+55  - I\' il look for her .	 Mom ?
+56  Where are you ?	 Come on , Mom .
+57  You know what the doctor said about stairs .	 - Is she okay ?
+58  - Yeah .	 Hey , Mom .
+59  What ?	 Mom , are you all right ?
+60  Suzuki- san ?	 - We\' il take it .
+61  - Okay .	 Morning .
+67  - What\' s her name ?	 - Yoko .
+68  Who knows ?	 Maybe she can suggest something .
+69  Maybe .	 I miss seeing this .
+71  Jen ?	 Sorry , honey , are you all right ?
+72  What\' s up ?	 I went for a walk yesterday .
+73  Just to explore .	 And I got so lost .
+75  I promise .	 Or else ?
+79  Who\' s there ?	 Hey , Jen ?
+80  What the hell ...	 Mom ?
+81  Are you all right ?	 Mom , where\' s Jennifer ?
+82  Come on .	 You scared ...
+83  Jen ?	 Honey ?
+84  What is it ?	 What\' s wrong ?
+85  What happened ?	 Honey , what is it ?
+86  I\' m gonna call an ambulance , all right ?	 Who are you ?
+87  What are you doing here ?	 Excuse me , Mrs. Williams .
+88  INVESTlGATlON	 I am Det .
+89  Nakagawa .	 This is Det .
+90  Igarashi , my assistant .	 Is Karen okay ?
+97  The address is there at the bottom .	 - Yoko .
+98  - I\' m sorry ?	 Karen\' s a substitute .
+100  For how long ?	 Since yesterday .
+102  Matt , are you there ?	 Pick up .
+105  Thursday , 8 : 27 p . m .	 End of messages .
+106  It\' s okay .	 I\' ve got you .
+107  Your boss told me what happened .	 I\' m sorry .
+110  That house .	 There was something ...
+111  It\' s okay , Karen .	 Matthew and Jennifer aren\' t around .
+112  Leave a message .	 Hey , guys , it\' s Susan .
+113  Matt , are you there ?	 Pick up .
+116  Matthew , stop it .	 Is anyone there ?
+117  Excuse me !	 Please .
+118  There was something on the ...	 - Sit down , please .
+119  - Please , just help .	 Hello ?
+120  It\' s me .	 - Are you all right ?
+121  - Yeah , I\' m downstairs .	 What number are you again ?
+122  1601 .	 I\' il buzz you in .
+123  I don\' t know what you\' re up ...	 How are you feeling ?
+124  Okay .	 Tired .
+125  - You are an exchange student ?	 - Yes .
+126  And you have been volunteering at the Care Center for ...	 Three months .
+128  Yeah .	 About the Japanese boy you said you saw there ...
+129  - Did you find him ?	 - No , not yet .
+132  I don\' t think so .	 I think it belonged to a woman .
+134  Briefly .	 I asked his name .
+135  He said it was Toshio .	 One more question , please .
+136  We found this in the hallway .	 This is him .
+137  This is the boy .	 Detective Nakagawa ?
+142  Did you escape ?	 I just had to get out of there .
+143  I didn\' t wanna be alone .	 Okay , Karen .
+144  Hold on a second .	 What\' s wrong ?
+145  Talk to me .	 I think I saw something in that house .
+147  I just wanna go home .	 Hello ?
+148  What happened , Yoko ?	 My name is Karen Davis .
+150  Questions about what ?	 I realize this is really awkward .
+153  My God .	 Peter !
+154  Hey , Shimizu .	 - Happy Monday .
+155  - Yeah , right .	 Here\' s your mail .
+156  - Another one ?	 - Yeah .
+158  - Thanks .	 - No problem .
+159  - Have a good one .	 - Thanks .
+160  Hi .	 Detective Nakagawa , I need to speak with you .
+162  I don\' t believe he killed himself .	 I don\' t understand .
+169  Corpses abandoned in garbage bag	 INVESTlGATlON - KEEP OUT
+170  METROPOLlTAN POLlCE DEPARTMENT KEEP OUT	 Karen , it\' s me .
+172  The Care Center called .	 Alex and Yoko are dead .
+173  I found your research and ...	 Did you go to that house ?
+174  I\' m coming to find you .	 - Did you get my message ?
+175  - Doug !	 Don\' t worry ...
+176  It isn\' t any problem .	 I\' il call you before I leave .
+177  Ten minutes .	 Yeah , I\' il be home soon .
+178  Yeah , love you , too .
+1  ( Woman ) Hey , Rose .	 Hey , Dorothy .
+2  ( Shuffling )	 ( Thump and groan )
+3  I\' m gonna go over there .	 We\' re waitin \' .
+4  ( Birds )	 Alvin .
+5  Alvin Straight !	 Rose left a couple of hours ago .
+7  - I haven\' t seen Alvin today .	 - Did I ask ?
+8  Straight , you\' re late !	 ( Mutters )
+9  Alvin !	 Alvin !
+10  Alvin !	 - Come in , Bud .
+11  - What the ... Alvin ? !	 ( Door creaks )
+12  Where the hell are you ?	 I can\' t see a thing .
+13  Over here , Bud .	 Watch your step .
+15  You nuts ?	 Supposed to be down at Davmar\' s one hour ago .
+16  What\' s going on ?	 Oh , my God !
+17  ( Alvin ) Hey , Dorothy .	 What\' s the number for 911 ?
+18  - No , Dorothy .	 - What you doin \' ?
+20  We have a stricken man here .	 Are you stricken , Alvin ?
+21  Put the phone down !	 Dad , what\' s all the yellin \' ?
+23  Dad ?	 Are you OK , Dad ?
+25  ( Engine revs severely )	 ( Bumps )
+26  I\' m goin \' to Davmar\' s .	 I\' il be right back .
+27  OK , Bud .	 I\' m not goin \' .
+28  Dad .	 I\' m not goin \' .
+30  Just bring me the doctor .	 ( Door opens and closes )
+33  - I\' il look for them next time .	 - Yeah ?
+35  And you\' il need a walker now .	 No walker .
+45  ( Tries ignition again )	 God darn !
+47  Yeah .	 ( Thunderclap )
+48  I love a lightnin \' storm .	 Uh , me too , Dad .
+49  ( Phone )	 ( Rose ) Hello ?
+50  This is ... is Rose .	 Yeah ...
+51  Yeah ...	 Uh- huh .
+52  Oh , no ...	 When ?
+53  OK ... right ... right ...	 I\' il tell him .
+54  Yeah ...	 OK ...
+55  Bye .	 Uh , that was ... Bobby .
+56  Uncle Lyle ... had a ... .. a stroke .	 ( Severe thunderclap )
+57  Dad ?	 No , Bobby , he ... he didn\' t say much .
+60  Yeah .	 I don\' t know ... uh , what he\' il do .
+61  ( Alvin ) Rose , darlin \' ?	 Rose ?
+63  But , Dad ...	 How are you ... ?
+72  Havin \' a party ?	 Oh , jeez , ...
+73  I love ... uh , parties .	 Oh , me too .
+74  And so ... where\' s it at ?	 Where\' s what at ?
+75  Your ... uh , party .	 I\' m not havin \' a party .
+76  I thought YOU were havin \' a party .	 I am ?
+77  Well , yeah .	 Look at all that Braunschweiger .
+80  Uh ... but he ... uh , won\' t say nothing .	 Wisconsin ?
+81  That is a real party state .	 Yeah .
+86  - What ?	 The grabber .
+87  Oh , jeez , Alvin .	 - That\' s MY grabber , Alvin .
+88  - Well ?	 Oh , jeez , Alvin .
+89  I don\' t ...	 I ... I do have two of them ...
+91  - I ... I ...	 - Well ?
+93  Jeez , Alvin , ten dollars .	 Ring her up .
+94  ( Sighs )	 What do you need that grabber for , Alvin ?
+95  Grabbin \' .	 ( Motor starts )
+96  Oh , jeez , Dad .	 Oh , jeez , Dad .
+97  ( Rumbling )	 Listen to that old grain elevator .
+100  Rosie , I\' ve ...	 I\' ve gotta go see Lyle .
+102  I guess so .	 Look up at the sky , Rosie .
+104  Alvin !	 What are you settin \' out to do here ?
+106  He\' il never make it past The Grotto .	 ( Truck horn )
+107  ( Crickets )	 ( Ignition turns over )
+108  ( Turns over a second time )	 ( Turns over again and dies )
+109  ( Vehicle approaching )	 I\' m havin \' a little engine trouble .
+112  This is the Sun Ray Tour .	 Get in .
+113  - I\' il get you help there .	 - I\' d appreciate that .
+114  ( Chattering from bus )	 My Edward loved his riding mower .
+115  Hey , come here , hurry .	 Hurry up .
+118  ( Door creaks )	 A Ford .
+120  ( Fires )	 ( Fires again )
+125  Well , that\' s appreciated .	 Until now .
+126  ( Both laugh )	 ( Alvin ) What year ?
+127  ( Salesman ) \' 66 .	 Kohler engine .
+129  It\' s got the old transmission .	 Nothing fancy .
+130  - Is it a good machine ?	 - It\' s good .
+131  Tom , I got $325 .	 That\' s a fact .
+134  - You bet ...	 Me .
+135  All right .	 ( Fire roaring and crickets rattling )
+136  ( Honks horn )	 ( Crickets )
+137  ( Fire crackling )	 I couldn\' t get a ride .
+138  Are you hungry ?	 Whaddaya got ?
+139  Weeners .	 Weeners ?
+140  Weeners .	 Wanna try one ?
+141  Here\' s a good stick for you .	 What a hunk ofjunk .
+144  Laurens .	 Got a wife back there ?
+145  Kids ?	 My wife , Francis delivered 14 babies .
+147  Francis died in \' 81 .	 Where\' s your family ?
+148  Are you runnin \' away ?	 ( Sighs softly )
+149  How far along are ya ?	 Five months .
+152  - Where\' s that ?	 - Wisconsin .
+153  - Oh ...	 - Just across the state line .
+154  Cheddar Heads .	 ( Both chuckle )
+157  Why don\' t you go get it ?	 My family hates me .
+159  No .	 No one knows .
+164  She was a real good mom .	 She had four kids .
+172  Lookin \' at the stars helps me think .	 Well ...
+173  Thank you .	 ( Birds )
+174  ( Hum of lawn mower )	 ( Distant thunder )
+175  ( Big thunderclap )	 Woo !
+176  What the ... ?	 What the hell ?
+177  Hey , how\' re you doin \' ?	 Doin \' good .
+178  ( Hum of lawn mower )	 Hey , Irene .
+183  ( Hum of lawn mower )	 ( Roar of big engines )
+185  ( Motor dies )	 ( Wind whistles )
+189  What the heck !	 I\' ve tried everything and still every week
+192  Where do they come from ?	 Oh ... he\' s dead .
+193  And I LOVE deer .	 ( Car screams away )
+195  ( Man ) That Rumelthanger place was an eyesore .	 ( Motor clicks )
+196  ( Chugging )	 ( Bigger click )
+202  I\' m Danny Riordan .	 Alvin Straight .
+204  Sure you\' re OK ?	 ( Birds )
+205  OK .	 You OK ?
+206  Everything all right ?	 I\' m going back to the exercise .
+207  Thanks .	 Appreciate it .
+209  - This is what \' 65 , \' 66 ?	 - \' 66 .
+211  - Where you headed ?	 - Mount Zion .
+212  Mount Zion , Wisconsin ?	 Past Prairie du Chien ?
+213  That\' s 60 more miles of hills .	 That\' s across the Mississippi .
+217  Where are you coming from ?	 Back a piece .
+218  ( Danny ) West Union ?	 - Hawkeye ?
+219  - Nope .	 Well , not New Hampton ?
+221  Yeah , I have .	 Laurens , Iowa .
+222  ( Woman ) Laurens ? !	 That\' s west ofThe Grotto .
+223  How long have you been on the road ?	 What\' s the date ?
+224  October eighth .	 Five weeks .
+227  In the fields .	 I pull off .
+234  I thought you\' d like a few fish .	 My daughter does woodwork .
+235  She makes birdhouses .	 ( Both ) Oh , that\' s nice .
+236  - You finished there ?	 - I believe I am .
+237  ( Fly buzzing )	 - I\' m in need of a phone .
+238  - Sure .	 Come in .
+239  I wanna tell my daughter about my recent travels .	 Sure .
+242  Here you go .	 You\' re welcome to sit in the kitchen .
+244  Is the area code still 712 here ?	 No , Alvin .
+246  712 , thank you .	 \' Hello ? \'
+247  Rose ?	 Dad ? ... Dad ...
+253  - He could\' ve died easily .	 - Yeah .
+255  OK , Dad .	 ( Chuckles )
+256  I ... I ...	 OK , OK , Dad , OK .
+258  Mount Zion can\' t be half a day .	 It\' s fine .
+260  Now , shoo !	 Dad ? ...
+261  I miss you , Dad .	 I love you , Rosie .
+263  Bye ... Dad .	 ( Tone )
+264  Ahem .	 ( Door creaks )
+265  ( Footsteps )	 What are you cookin \' there , Alvin ?
+266  Oh , I\' m makin \' my Mexican coffee .	 Ah .
+275  I still wanna finish this the way I started .	 No , no ...
+276  Hi , Verlyn .	 - How the heck you doin \' ?
+277  - Fine .	 Wonderful .
+279  ( Laughs ) Yeah .	 How\' s that for timing ?
+281  - Mmm ... help yourself .	 - Thank you .
+285  Except when you came down that hill .	 ( Both laugh )
+287  I wasn\' t worth a stick of stove wood ...	 I was mean .
+291  Yup .	 # The rainbow , you will suddenly ... #
+292  [ Skipped item nr .	 552 ]
+296  ( Sounds of war )	 All my buddies ...
+302  Darn near ahead of the lines .	 And I\' d sit ... forever .
+307  He was a little fella ...	 We\' d broken out of the hedgerows ...
+310  The movement stopped .	 The next day we found Kotz ... head shot .
+312  Everyone , all these years .	 Everyone but me .
+313  Ha ha !	 See , Harald ... brainiac ...
+315  I\' d say it worked pretty good .	 Wouldn\' t you ?
+316  So help me slide her out .	 We can get settled up .
+321  Ahhhh ... Thorvald ?	 Ahh ... we can make an adjustment there .
+329  Ah ... ahhh ...	 Hundred and eighty even ?
+330  Done .	 ( Chuckles )
+332  My brother lives there .	 I haven\' t seen him in ten years .
+336  Well , ...	 Guess I\' il be turnin \' in .
+339  Write to us , sometime .	 I will .
+340  ( Lawn mower starts up )	 ( Passing truck )
+341  I noticed your campfire .	 I brought you some dinner ...
+342  Mashed potatoes , meat loaf .	 Well , thank you kindly .
+344  Thank you .	 I hope you don\' t mind me trespassin \' .
+345  Oh , no , not at all .	 Made a fine choice .
+347  - The Marquette party .	 - Two of his men .
+349  My eyes are bad .	 I can\' t drive .
+352  Mount Zion .	 What\' s his name ?
+354  Do you know him ?	 I work at the hospital in Boscobel .
+358  So , you saw him ?	 Is he all right ?
+367  Cain and Abel .	 Anger , vanity .
+369  I wanna make peace .	 I wanna sit with him ,
+371  Well , sir ...	 I say " Amen " to that .
+372  ( Fire crackles )	 ( Hum of lawn mower )
+373  Howdy .	 I haven\' t had a drink in a lot of years .
+374  Now I\' m gonna have me a beer .	 What flavour ?
+375  What does a Miller\' s Lite taste like ?	 There you go .
+376  - How\' s it taste ?	 - It\' s good .
+377  - Keep the change .	 - Thank you .
+380  From Iowa .	 I\' m headed for Lyle Straight\' s place .
+382  ( Sighs )	 &lt; ( Scraping )
+383  Another beer ?	 This will do me fine .
+387  ( Motor clicks ) ( Chugs )	 ( Squeaks )
+388  ( Motor dies )	 ( Motor hissing )
+389  ( Turns off engine )	 How you doin \' ... ?
+390  Not too good .	 This thing\' sjust tired .
+392  Itjust quit on me .	 Why don\' t you try her again ?
+394  ( Tractor engine starts with a roar )	 Lyle !
+395  Lyle ?	 ( Lyle ) Alvin ?
+
+1  Bobby .	 Bobby .
+2  No !	 All right , we lined up ?
+3  Get that line .	 Put the stern line on quick .
+4  Bobby !	 Hey , baby !
+5  Missed you .	 Hey , big man , how you doing ?
+6  - Hey , Murph !	 - Hey , Ethel .
+7  How you doing ?	 Welcome home .
+9  Ma !	 - How you doing , beautiful ?
+10  - Hello , Bobby .	 Home safe .
+11  Who\' s that ?	 - Ol \' Ben .
+12  - No .	 Poor old guy .
+13  Hey , Linda .	 - Hey , boss .
+14  - What\' s the score ?	 My kind of numbers .
+15  I lost Ben Pulley .	 He passed away onboard .
+16  Sorry to hear that .	 How\' d you hit it , Billy ?
+18  Did you hear the lady ?	 Ben Pulley\' s dead .
+20  - I\' il bury him .	 - I\' il pay for it .
+21  See , you got what you wanted .	 Bring in your fish .
+22  It shouldn\' t take too long .	 8- 5 .
+23  4- 7- 5 .	 Murph .
+24  Sign my ledger .	 Shatford .
+25  Sign my ledger .	 What\' s the matter ?
+26  It\' s $2221 .	 Aren\' t we a little short ?
+30  I get half .	 I own the boat .
+32  That comes to $2221 .	 What it is , is what it is .
+33  Sign the ledger .	 Moran .
+34  You going out again this season , skipper ?	 Why ?
+35  You got a site in Florida ?	 Bradenton Beach .
+36  The " Cecile . "	 Pack your shit and get out .
+37  You like Florida ?	 Well , it beats the Grand Banks in October .
+39  I didn\' t say that .	 Yes , you did .
+40  Goodbye .	 Here\' s your cut . $5923 . 76 .
+44  I always have .	 But I like my boat better .
+49  Don\' t even think about it .	 I want my boat back .
+50  And I want to catch some fish .	 It\' s what I do .
+51  Not lately .	 Want to yank my site , you go ahead .
+52  - Murph .	 - Hey , skip .
+53  What are you doing out here ?	 Get in there .
+54  Get drunk .	 Waiting on my ex ... ... and my son .
+56  Ladies , you\' re looking fine .	 How you doing ?
+57  Can I buy you a drink ?	 What , what , what ?
+58  Hey , rookie .	 What are you so happy about ?
+60  Bugs , how you making out ?	 I\' m not .
+61  I don\' t know .	 Maybe I smell like fish .
+67  What happened ?	 They had a sale on kids \' shoes at Ames .
+68  Sorry .	 No problem .
+69  Hi .	 Hello .
+70  So you want to have a drink ?	 Come on , Debra .
+72  Is that what it was ?	 There you go .
+73  I\' m a little short .	 It wasn\' t exactly a slammer .
+74  Half for you .	 You sure ?
+75  Yeah , I\' m working .	 Want to come with your daddy ?
+76  Shoot some pool ?	 Have a drink ?
+77  Just bring him home in an hour .	 Good shot , buddy .
+78  All right , Sully , you think about it .	 All right ?
+79  Bugs .	 Murph , come here .
+82  What\' d I tell you ?	 - When ?
+83  - A few days .	 " Few " means two ?
+84  Two days is right .	 Skip , we just got back in .
+89  I\' d like to hear that .	 Hear what ?
+92  Why ?	 Why do I even love you ?
+93  - Come on .	 - No .
+94  Why ?	 Why , Bobby ?
+96  - Get laid , Bugsy .	 - Easy for you to say .
+97  Go on up there .	 Don\' t make the same mistake I did .
+98  You\' re going away again ?	 Yeah .
+99  Take me with you .	 Come here .
+100  Go back , Bobby .	 Go back to what you did before .
+101  - Pack cod , repair tackle .	 - I\' m sick of that .
+102  It\' s safe and it pays .	 Not enough .
+103  Just one more time .	 I promise .
+104  I have to try it again .	 We need the money , baby .
+105  Money .	 It\' s always about the money .
+107  You gotta get them back .	 Do you think you\' il love them ?
+108  They\' re yours , aren\' t they ?	 Hey , beautiful .
+109  Yeah , you .	 Buy you a drink ?
+112  You know what would look good on you ?	 Me .
+113  No good ?	 Have a drink .
+114  It\' s not that bad .	 Thank you .
+115  Here\' s to crime .	 You\' re pathetic .
+124  Irene .	 Is that so tough ?
+125  I\' m sorry .	 Listen .
+126  Could I maybe take you home ?	 I don\' t think so .
+127  I came to watch the game .	 Instead I got schnockered with Bugsy .
+128  - What does Bugsy stand for anyway ?	 - Michael .
+129  That\' s a nice name .	 Why don\' t you use it ?
+130  Because people know me as Bugsy .	 I\' m gonna shove off now .
+131  Big day tomorrow .	 I can\' t take you home ?
+132  What , in a wheelbarrow ?	 Crew guys like you never have cars .
+133  Lay off .	 I got feelings too .
+139  Gotta go .	 What do you mean ?
+140  - Where you going ?	 - Have these .
+141  - Thank you .	 - See you .
+142  - Bye , Ethel .	 - See you .
+143  Watch your step .	 I smell Coppertone .
+146  - You doing a turnaround ?	 - No rest for the weary .
+147  There you go .	 Flaunting your work ethic .
+148  I don\' t have a work ethic .	 I just have work .
+150  Why ?	 You know them all by heart .
+155  You do .	 Believe me .
+161  Head north , open up to 12 .	 You\' re steaming now .
+162  The guys are busy , you\' re in charge .	 You know what ?
+164  Sully .	 So what do you think ?
+165  You been busy ?	 Busy enough .
+166  I was working menhaden in Annisquam .	 But they laid off Labor Day .
+167  Mended nets over in Fairhaven .	 That\' s crap .
+168  What\' s this you\' re doing now ?	 Helping out a friend .
+169  He paying you ?	 He\' s my friend .
+170  Murphy keep his site ?	 You want this job or not ?
+171  I do .	 Lord , did I do that ?
+172  Yeah , you did .	 But I\' m not completely blind .
+175  Tell me last night was worth it .	 I can\' t remember .
+176  Can\' t remember , my ass .	 No , I remember your ass .
+177  Last night was worth it .	 There\' s nothing like sleeping with you .
+179  Catching up .	 Oh , boy , oh , boy .
+180  Look at that shiner .	 Come on , Murph , will you ?
+181  Good morning .	 Where\' d you get the mouse ?
+184  Ethel , where you getting your customers these days ?	 The welfare office ?
+185  Who gave you that scar , tough guy ?	 Back off !
+186  Back off .	 Come on , swing it .
+188  All right , Ma .	 See you onboard .
+193  Lots of them .	 Full ahead .
+194  Hold down the fort , Quentin .	 Thanks , Q.
+195  Thanks , Ethel .	 Gotta go , Mom .
+196  The Grand Banks .	 I know .
+197  Grand Banks are no joke in October .	 All right ?
+198  Be careful .	 At least we\' il get cancer together .
+200  Don\' t go , Bobby .	 I got a bad feeling .
+204  Michael .	 Irene .
+205  Irene .	 I knew that .
+207  Well , goodbye , Irene .	 Goodbye .
+209  Well , you gotta go .	 Come on , boys .
+210  Let\' s go .	 I love you .
+211  I will always love you , Christina .	 Pack it in there good .
+213  We catching some fish	 Is that gonna crap out again ?
+214  Never !	 Do you mind ?
+215  Stinks in here , doesn\' t it ?	 Not anymore .
+220  - You\' re not intruding .	 You\' re a natural .
+221  You\' ve got some old salt in your blood .	 Thanks .
+223  When do you get unhappy ?	 The day we go home .
+224  Home ?	 I thought the sea was your home .
+226  My ex lives there .	 Jodi .
+228  Wife .	 Kids .
+229  A house with things in it .	 All that stuff .
+233  Congratulations .	 Then again , I love to fish .
+234  Son , you\' ve got a problem .	 I know .
+235  Here you are .	 What do you think ?
+237  - Or better .	 Watch it .
+238  This doesn\' t look good .	 Looks pretty ugly here too .
+239  Pam .	 Tell Bernie I need two graphics :
+240  Bermuda and Sable Island .	 Good .
+241  What\' s our course ?	 I\' ve been sailing 42 years .
+245  Three- mile buoy out !	 Yeah , baby .
+246  Set .	 Okay , Sully , put it out .
+247  Highflyer !	 Hey , A. P.
+249  Easy , Murph .	 He\' s dead weight .
+250  He\' s been screwing around all night .	 A juicer and a head .
+253  All right , cap .	 Give us some lights .
+254  Come on .	 Jesus .
+255  Shake , you guys .	 Shake !
+256  - Just let it go .	 - Your day is coming .
+257  Whenever you\' re ready .	 I\' il be right up here .
+258  The job ain\' t hard enough without this knucklehead .	 Let\' s go .
+259  We\' re gonna make some money .	 Let\' s go , boys !
+260  Let\' s go !	 Come on !
+261  Come on .	 Do it , skip , do it .
+262  Make a killing .	 One\' s on .
+263  Fish on .	 Have those gaffs ready .
+264  Don\' t lose him , Murph .	 Don\' t lose him .
+265  Pull him in , Murph .	 All right , now , gaff him .
+266  Gaff him !	 One , two , three !
+267  Pull him in .	 Come on , a little bit more .
+268  So what do you think ?	 Do you think he\' il like it ?
+269  He\' il love it .	 Enough to live with me in it ?
+271  I got confidence in you .	 What , are you putting me on ?
+272  He\' s my precious boy .	 And you\' re the woman for him .
+277  Skipper don\' t get scared .	 Just disappointed .
+281  Keep it up .	 Highflyer !
+284  Came out here for nothing .	 Keep moving , keep moving .
+286  - Something very big .	 - Fish on !
+287  Come on , guys .	 Oh , yeah .
+288  Come on .	 Bring it up .
+289  Bring it up .	 Get the gaff !
+290  Get it out of here !	 Stick him .
+291  Stick it in his head !	 Good !
+292  Get him off !	 - He\' s got my leg !
+293  - Hang on !	 Kick your foot out !
+294  Kick it !	 Kick your foot out .
+295  Get back !	 All right , come on , get it out !
+296  Get it out of here .	 - Pull him back !
+297  - Over the side .	 You all right ?
+301  Steamed here and there and all about	 What\' s our tally ?
+302  We\' ve struck out "	 All right , okay .
+303  Thank you very much .	 Thank you .
+306  They suck .	 We ain\' t doing nothing .
+307  The boys been talking ?	 About how I lost it ?
+313  I always find the fish !	 Always !
+314  And I will this time !	 So don\' t fuck with me !
+315  Aye , aye , skip .	 Put them closer !
+316  Murph , closer !	 Give them a goddamn banquet .
+317  Aye , aye , cap .	 You heard him , boys .
+318  Boss ain\' t happy .	 Double- time .
+319  Let\' s go , Bob .	 Sullivan !
+321  Shut up , asshole !	 You couldn\' t bait fish in a barrel !
+322  - Come on .	 - See what I got to deal with ?
+323  That\' s a landlubber .	 What an idiot !
+325  Bugs , help him out .	 Hurry up , before the captain sees .
+326  Okay , sure , I\' il help him out .	 What a screwup !
+327  - You\' re useless , Sully !	 - Lay off , Bugs .
+330  Take it easy .	 It was an accident .
+332  And you -- !	 Murph !
+333  Cap , man overboard !	 Take the wheel !
+334  Back her down slow .	 Come on , Murph .
+335  We\' ve got Murph !	 Come on !
+336  You all right ?	 You all right ?
+337  Come on , Murph .	 Come on .
+338  Come on .	 How was the water , Murph ?
+339  Welcome back , Murph !	 You did it , Murph .
+340  Hold on a minute .	 All right , bend over .
+341  Tetanus .	 Who\' s the hero ?
+342  Bobby and Sully .	 Sully ?
+344  How you feeling ?	 All right .
+345  - Bobby , thank you .	 - Don\' t worry about it .
+349  It\' s all I can manage now .	 All right ?
+350  I\' il work on it .	 Tough guy .
+353  In this stuff , harbor\' s too dangerous .	 Dangerous ?
+356  We\' il ride this thing out .	 Not for fun , for safety .
+357  Do what I\' ve always done :	 Go with the flow .
+358  Holy shit !	 Rogue wave !
+359  Look out !	 Everybody here ?
+363  Yeah , what else ?	 Never mind unlucky .
+366  We want to go home .	 You want to go home ?
+370  Pay dirt ?	 What are you talking about ?
+371  Where the hell is that ?	 We covered the Grand Banks .
+372  The Grand Banks are west of us .	 I\' m headed east .
+373  The Flemish Cap .	 The Flemish Cap ?
+376  - Are you Gloucestermen ?	 - Yeah .
+378  That\' s where the fish are .	 Do we have any other choice ?
+379  Yeah .	 Crawl home , busted .
+380  - All right , skip .	 - All right .
+383  What\' s happening ?	 Slim to none .
+384  Where are you ?	 Tail of the Banks .
+385  Kicking up something wicked here .	 Made a couple of sets .
+386  You doing any good ?	 Nine , first set .
+389  - I don\' t like partners .	 Business- wise , that is .
+390  Okay , okay .	 What\' s your position ?
+391  46 north , 48 west .	 You headed for the Flemish Cap ?
+392  The lady knows her coordinates .	 Yeah , I\' m steaming full- bore .
+395  This could be a triple- header .	 You\' re behind me .
+398  You be careful .	 Yes , Mother .
+399  Why don\' t we pick this up later ?	 I\' m out .
+400  - You guys use some company ?	 - Sure .
+402  What\' d you hear ?	 They\' re out on the Flemish Cap .
+403  I got it straight from big Bob Brown .	 Yeah .
+404  The Flemish Cap .	 I went there , \' 62 .
+405  Lots of fish .	 And lots of weather .
+407  That\' s right .	 I am .
+410  Standard procedure .	 Forget it , we won\' t make it !
+411  Missy , get on the radio now !	 - We can make it .
+412  - Mayday !	 It\' s sopping wet !
+413  She\' il be weeping in the wind .	 No !
+415  This is my life !	 Go , Melissa !
+416  Mayday !	 Mayday !
+417  Mayday !	 We\' re a 32- foot sailing vessel , " Mistral . "
+418  Our position is ... ... 39 . 49 north --	 Mayday !
+419  Mayday !	 Over .
+420  Hey , cap !	 Ice machine\' s had it .
+421  It\' s dead .	 - Check the evaporator ?
+422  - Yeah .	 - Freon ?
+423  - Plenty , but nowhere to flow .	 Use some spit and glue .
+424  I did .	 She\' s fried , skip .
+426  The ice machine\' s gone .	 Oh , fuck .
+430  We are taking heavy waves .	 Damage on deck .
+433  A real bad one .	 Right in our path .
+434  The Weather Service is jerking off again .	 No .
+435  You\' re afraid ?	 I never seen you scared .
+439  We drive right through it .	 You said we\' re Gloucestermen .
+440  What do you say , guys ?	 Are we or aren\' t we ?
+442  - Let\' s make some money .	 Come on .
+443  Let\' s hear it , Gloucester !	 Let\' s get her lashed down .
+444  Bugs , put the birds in the water .	 Birds in .
+445  Got it , skip .	 Look .
+450  Wait , wait .	 What if Hurricane Grace runs smack into it ?
+454  Bobby ?	 I want you up here with me .
+455  Mayday !	 Mayday !
+456  " Sailing vessel " Mistral , this is Coast Guard rescue .	 Sandy !
+457  Edie , they heard me !	 They\' re coming !
+459  Position :	 39 . 49 north ... ... 69 . 52 west .
+461  OD , boatswain on the bridge .	 Tallyho , there they are .
+462  - Okay , guys , showtime .	 - You got it .
+466  Just a little closer .	 Okay , deploying the basket .
+467  Close to 2 : 00 .	 Let\' s come right to 5 .
+468  - Four .	 Three .
+469  - Son of a bitch .	 Stop there .
+470  Hold your hover .	 Goddamn it !
+471  Keep it steady , keep it steady .	 Shit !
+472  Man out !	 - Shear the cable !
+473  - No , I got it !	 Shit .
+474  Bring up the basket !	 Sandy !
+475  Hold on !	 I got you !
+477  Okay , go get them .	 Mitchell off intercom .
+478  It\' s time to get wet .	 We\' re gonna be all right .
+479  Go .	 Altitude .
+480  Altitude .	 Get her up , get her up !
+481  He\' s in the water .	 I\' m going after him !
+482  No , no , wait !	 Stand by !
+483  Jonesy , hold on .	 There !
+484  He\' s okay .	 This isn\' t working .
+486  You\' re having a blast , huh ?	 - Want a turn ?
+487  - No , just watch .	 I want to watch .
+489  Want to give me a hand ?	 Grab the throttle .
+490  Hang on .	 - Ah , shit !
+491  - Seven K , six easy .	 - Eight minimum .
+495  Good afternoon , madam .	 I\' m Sergeant Jeremy Mitchell .
+496  I\' il be your para- rescue jumper today .	 How are you ?
+497  Okay so far .	 Keep your hands and feet in the basket .
+498  - Careful .	 - Okay !
+499  All right , here we go .	 You\' re next .
+500  That was nothing !	 Come on !
+501  Oh , my God .	 It\' s happening .
+502  Andrea Gail , Andrea Gail .	 This is " Hannah Boden . "
+503  -- Billy , over .	 Calling the " Andrea Gail . "
+505  Come in !	 Come in , for God\' s sake , come in !
+506  Billy , these storms have collided !	 They are exploding !
+507  Who is it ?	 I don\' t know .
+510  Look at your fax , damn it !	 Look at your fax !
+512  - Linda ?	 Give me the coordinates .
+515  Billy , get out of there .	 Come about !
+516  Let it carry you out !	 What the hell are you doing ?
+517  Hang on !	 Billy !
+518  Billy , for chrissake !	 You\' re steaming into a bomb !
+519  Turn around , for chrissake !	 It\' s the antenna .
+521  Oh , my God .	 Hang on !
+522  Take the wheel .	 No , I\' il go .
+526  44 north , 56 . 4 west , headed west .	 Jesus .
+527  That\' s straight into hell .	 Gloucester .
+529  I\' m getting a little air- to- air feeling .	 Refuel in hell ?
+530  That\' s pretty sporty .	 Call the cutter .
+531  We\' re coming in hot .	 People , slight change of plans !
+533  Or their minds .	 This is rescue 2- 3- 1 on final approach .
+534  Rescue 2- 3- 1 , flight deck is green .	 There it is .
+535  You\' re being waved in .	 Thirty meters and closing .
+537  Beautiful .	 We\' re coming .
+538  Watch this wave , cap .	 2- 3- 1 , looking good .
+539  Transfer at will .	 Drop ladder .
+540  All right , send them down .	 Put your foot out .
+541  Left leg out .	 Mind your helm , goddamn it .
+542  Watch the deck !	 Come on .
+543  First survivor on deck .	 - Where\' s our fuel ?
+544  - Refueling tanker is on the way .	 Second survivor on deck .
+545  Jesus .	 It\' s gone .
+546  No antenna , no radio .	 We\' re back in the 19th century .
+550  Take the wheel !	 Skipper , don\' t !
+551  Take the goddamn wheel !	 That\' s an order !
+552  Damn , I can\' t see anything .	 What\' s the gauge say ?
+553  It\' s low , Jonesy .	 Where are they ?
+555  No !	 Come on !
+556  Not again .	 Hello ?
+557  Ethel , thank God !	 I\' m going crazy here .
+558  Even the weather guy\' s gone bananas .	 Have you heard from -- ?
+559  Hello ?	 Ethel ?
+560  Shit !	 There she is !
+563  All right now , hold on !	 In the water !
+564  Hold on , skip !	 Shit .
+565  Come on , skip !	 Come on , skip , come on !
+566  Yeah !	 Anything yet ?
+567  Nothing about boats .	 - I got four nines .
+568  - He\' s a liar .	 Florence .
+573  At Logan International Airport , flooded runways .	 We did it !
+574  - Get those windows boarded up !	 - All right , skip .
+575  Come on , board it up !	 Tell those guys forget it .
+576  We\' il get our gas somewhere else .	 What do you think ?
+578  This is not our night .	 We\' re issuing a mayday .
+579  Give the Coast Guard our coordinates .	 We\' re ditching .
+581  King 1- 2 , departing the area .	 Come on !
+582  Let\' s get it up !	 All right , guys , get ready !
+583  Hold on !	 Get it up there !
+584  Get another one .	 Come on .
+585  Whoa , whoa , whoa !	 Grab them , grab them !
+587  - Stay together .	 - Roger that .
+588  Number 1 is out !	 Bail !
+589  Bail out !	 - Leave yourself enough time , okay ?
+590  - I\' il be fine .	 Go , Jonesy , go !
+591  You\' re next .	 Hold on , hold on !
+592  Now , Jeremy , now !	 Go !
+593  Bail out !	 See you , Darryl .
+594  No , no , no , no .	 No !
+595  Over here !	 We\' re over here !
+596  Have you seen Mitchell ?	 No .
+597  What about Jonesy ?	 Nothing .
+598  Just you .	 Goddamn it , we don\' t lose anybody !
+599  Come on , lay it on .	 - Get it locked !
+600  - Get them on !	 They\' re not gonna make it !
+601  Tell them to hold on .	 I\' il turn the boat .
+603  It\' s jammed !	 It\' s jammed !
+604  Lock it down !	 I can\' t hold her !
+605  Come on , get it up .	 Put it on now !
+606  Come on , this is it .	 - Get it on .
+607  - I\' m trying !	 Get it on .
+608  It\' s loose .	 I got it !
+609  Man overboard !	 - What ? !
+610  - Two over the side .	 Come on , help me !
+611  Hold on , I got you !	 Grab the line !
+612  Oh , God .	 We lost Bugsy !
+613  Bugsy !	 Hold on .
+614  Grab this .	 Hold on !
+615  Come on , Bugsy .	 Grab it !
+616  Grab it !	 Bugsy !
+617  There !	 Right there !
+619  I got you .	 We\' re here .
+621  Can\' t breathe .	 - Hey , Mitch , have you seen Jonesy ?
+622  - No .	 Go find him .
+623  Go find Jonesy .	 Go get him .
+624  Boys , that\' s it .	 We can\' t make it .
+626  What about our catch ?	 We\' il mug them next time .
+629  Textbook .	 So get ready .
+633  I\' il give him that .	 What do you want ?
+634  Credit for having the guts to walk in here ?	 I do .
+635  Give it to him .	 How you doing , Quentin ?
+636  Pretty good , governor .	 You\' re counting your money .
+638  I hate the game .	 I hate the goddamn game !
+639  Do you hear me ? !	 Do you read me , governor ?
+640  Do you ? !	 Do you read me ? !
+641  Did you see him ?	 I don\' t see anything !
+642  Look !	 There\' s the cutter .
+644  Put me alongside them .	 I want five men on that net .
+645  And get the light out there .	 Okay , guys , hook in !
+646  Pick it up !	 Move !
+647  Keep your light on those swimmers !	 Get ready !
+648  Release the net now !	 Okay , now , Jeremy , swim !
+649  Swim !	 Give him a hand !
+650  Get ready !	 Come on !
+651  All right !	 Let\' s do it again .
+653  Broadside , captain ?	 Isn\' t it too dangerous ?
+654  It\' s too hairy .	 I won\' t let two men drown !
+655  Hold on , Jer .	 Just hold on .
+656  When I say now , you go full throttle .	 Got it ?
+657  We only get one chance at this .	 And then ?
+658  We pray .	 Wait .
+659  Wait .	 Wait .
+660  Wait .	 Now !
+661  Faster !	 We did it !
+662  Guys , we\' re alive !	 We made the turn !
+663  We did it !	 Hey , skip , I\' m giving you notice .
+668  They\' re coming for you .	 You\' re wrong , Jer !
+671  - Okay .	 - Back full !
+672  - Back full on !	 You gotta swim now , Jer !
+673  Grab it , Jer , just grab it !	 Come on !
+674  Climb !	 Climb !
+675  Reach !	 We lost one !
+676  Pick up the net !	 Come on !
+677  Give me your hand !	 Reach and grab it with everything you got .
+678  Everything you\' ve got !	 Hold on !
+679  Pull !	 Yes !
+681  There\' s another man out there !	 There\' s another man !
+682  Jonesy !	 Jonesy !
+684  No .	 Come on , you bitch !
+685  Come on !	 Come on !
+686  Come on .	 We gotta get out .
+687  How do we do this , skip ?	 No school for it .
+688  Never was .	 This is gonna be hard on my little boy .
+690  We had to try .	 We were so close .
+692  Christina .	 Christina , can you hear me ?
+695  No goodbye .	 There\' s only love , Christina .
+699  I knew Billy Tyne .	 I did not know his crew very well .
+706  That big smile .	 You know that smile .
+710  Only love . "	 And then he\' s gone .
+712  Absolutely okay .	 I love your dream .
+716  The sun hits you .	 You head north , open up to 12 .
+718  You know what ?	 You\' re a goddamn swordboat captain .
